@@ -11,9 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('unsystems', function (Blueprint $table) {
+        Schema::create('asnumbers', function (Blueprint $table) {
             $table->id();
             $table->string('name');
+            $table->integer('rootserverid');
             $table->timestamps();
         });
     }
@@ -23,6 +24,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('unsystems');
+        Schema::dropIfExists('asnumbers');
     }
 };

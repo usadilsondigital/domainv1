@@ -13,6 +13,13 @@ return new class extends Migration
     {
         Schema::create('rootservers', function (Blueprint $table) {
             $table->id();
+            $table->string('letter');
+            $table->string('ipv4');
+            $table->string('ipv6');
+            $table->string('oldname');
+            $table->string('operator');            
+            $table->string('software');
+            $table->int('countryid');
             $table->timestamps();
         });
     }

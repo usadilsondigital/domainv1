@@ -11,9 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('unsystems', function (Blueprint $table) {
-            $table->id();
-            $table->string('name');
+        Schema::create('autonomoussystems', function (Blueprint $table) {
+            $table->id();            
+            $table->integer('numbermin');            
+            $table->integer('numbermax');
+            $table->integer('bits');
+            $table->string('description');
+            $table->integer('reference');
             $table->timestamps();
         });
     }
@@ -23,6 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('unsystems');
+        Schema::dropIfExists('autonomoussystems');
     }
 };
