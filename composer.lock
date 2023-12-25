@@ -7822,9 +7822,6 @@
                 }
             },
             "autoload": {
-                "files": [
-                    "src/helpers.php"
-                ],
                 "psr-4": {
                     "Spatie\\FlareClient\\": "src"
                 }
@@ -7988,9 +7985,6 @@
                 }
             },
             "autoload": {
-                "files": [
-                    "src/helpers.php"
-                ],
                 "psr-4": {
                     "Spatie\\LaravelIgnition\\": "src"
                 }
