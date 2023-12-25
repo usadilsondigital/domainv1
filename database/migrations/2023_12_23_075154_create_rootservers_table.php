@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('oldname');
             $table->string('operator');            
             $table->string('software');
-            $table->int('countryid');
+            $table->integer('countryid');
             $table->timestamps();
         });
     }
