@@ -1,0 +1,12 @@
+0,0,16,Reserved for RPKI unallocated space invalidation,6483
+1,23455,16,Public ASNs,0
+23456,23456,16,Reserved for AS Pool Transition,6793
+23457,64495,16,Public ASNs,0
+64496,64511,16,Reserved for use in documentation and sample code,5398
+64512,65534,16,Reserved for private use,1930
+65535,65535,16,Reserved,7300
+65536,65551,32,Reserved for use in documentation and sample code,5398
+65552,131071,32,Reserved,0
+131072,4199999999,32,Public 32-bit ASNs,0
+4200000000,4294967294,32,Reserved for private use,6996
+4294967295,4294967295,32,Reserved,7300
