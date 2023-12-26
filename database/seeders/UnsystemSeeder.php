@@ -12,6 +12,13 @@ class UnsystemSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        $file = fopen('unsystem.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('unsystem')->insert([
+                'name'=> $line[0]
+            ]);
+        }
+        
+        fclose($file);
     }
 }
