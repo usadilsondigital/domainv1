@@ -13,7 +13,8 @@ class RootserverController extends Controller
      */
     public function index()
     {
-        //
+      
+       
     }
 
     /**
