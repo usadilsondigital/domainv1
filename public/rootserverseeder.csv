@@ -1,0 +1,13 @@
+A,198.41.0.4,2001:503:ba3e::2,ns.internic.net,Verisign,NSD and Verisign ATLAS,United States
+B,170.247.170.2,2801:1b8:10::b,ns1.isi.edu,USC-ISI,BIND and Knot DNS,United States
+C,192.33.4.12,2001:500:2::c,c.psi.net,Cogent Communications,BIND,United States
+D,199.7.91.13,2001:500:2d::d,terp.umd.edu,University of Maryland,NSD,United States
+E,192.203.230.10,2001:500:a8::e,ns.nasa.gov,NASA Ames Research Center,BIND and NSD,United States
+F,192.5.5.241,2001:500:2f::f,ns.isc.org,Internet Systems Consortium,BIND,United States
+G,192.112.36.4,2001:500:12::d0,ns.nic.ddn.mil,Defense Information Systems Agency,BIND,United States
+H,198.97.190.53,2001:500:1::53,aos.arl.army.mil,U.S. Army Research Lab,NSD,United States
+I,192.36.148.17,2001:7fe::53,nic.nordu.net,Netnod,BIND,Sweden
+J,192.58.128.30,2001:503:c27::2,none,Verisign,NSD and Verisign ATLAS,United States
+K,193.0.14.129,2001:7fd::1,none,RIPE NCC,"BIND, NSD and Knot DNS",Netherlands
+L,199.7.83.42,2001:500:9f::42,none,ICANN,NSD and Knot DNS,United States
+M,202.12.27.33,2001:dc3::35,none,WIDE Project,BIND,Japan
