@@ -10,89 +10,97 @@ use App\Helper;
 
 class AutonomoussystemController extends Controller
 {
+    public function NuevoAS($numbermin,$numbermax,$bits,$description,$reference){
+      
+        \DB::table('autonomoussystems')->insert([
+            'numbermin'=> $numbermin,
+            'numbermax'=> $numbermax,
+            'bits'=> $bits,
+            'description'=> $description,
+            'reference'=> $reference
+        ]);
+    }
+    public function SeedCountry(): void
+    {
+        $file = fopen('countryseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('countries')->insert([
+                'name'=> $line[0],
+                'formalname'=> $line[0],                
+                'disputedsovereignty'=> $line[2],
+                'unsystem_id'=> 0,
+            ]);
+        }        
+        fclose($file);
+    }
+
+    public function SeedUnsystem(): void
+    {
+        $file = fopen('unsystemseeder.csv', 'r'); while (($line = fgetcsv($file)) !== FALSE) {
+            \DB::table('unsystems')->insert([ 'name'=> $line[0]]);    }    fclose($file);
+    }
+
+    public function SeedAs(): void
+    {
+        $file = fopen('asseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('autonomoussystems')->insert([
+                'numbermin'=> $line[0],
+                'numbermax'=> $line[1],
+                'bits'=> $line[2],
+                'description'=> $line[3],
+                'reference'=> $line[4]
+            ]);
+        }
+        
+        fclose($file);
+    }
+
+    public function SeedRootserver(): void
+    {
+        $file = fopen('rootserverseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('rootservers')->insert([
+                'letter'=> $line[0],
+                'ipv4'=> $line[1],
+                'ipv6'=> $line[2],
+                'oldname'=> $line[3],
+                'operator'=> $line[4],
+                'software'=> $line[5],
+                'countryid'=> 0
+            ]);
+        }
+        
+        fclose($file);
+    }
+    
+    public function SeedLanguage(): void
+    {
+        $file = fopen('languageseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('languages')->insert([
+                'name'=> $line[0],
+                'currentwordscount'=> 0,
+                'totalwords'=> 0
+            ]);
+        }
+        
+        fclose($file);
+    }
+
+
+
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
+        $this->SeedUnsystem();
+        $this->SeedCountry();
+        $this->SeedAs();
+        $this->SeedRootserver();
 
-        
-    $tablehtmlASN = "<table>
-    <tr>
-      <td>numbermin</td>
-      <td>numbermax</td>
-      <td>bits</td>
-      <td>description</td>
-      <td>reference</td>
-    </tr>
-    <tr>0	16	Reserved for RPKI unallocated space invalidation[19]	RFC 6483, RFC 7607</tr>
-    Number
-    Bits
-    Description
-    Reference
-    0
-    16
-    Reserved for RPKI unallocated space invalidation[19]
-    RFC 6483, RFC 7607
-    1–23455
-    16
-    Public ASNs
-    
-    
-    23456
-    16
-    Reserved for AS Pool Transition
-    RFC 6793
-    23457–64495
-    16
-    Public ASNs
-    
-    
-    64496–64511
-    16
-    Reserved for use in documentation and sample code
-    RFC 5398
-    64512–65534
-    16
-    Reserved for private use
-    RFC 1930, RFC 6996
-    65535
-    16
-    Reserved
-    RFC 7300
-    65536–65551
-    32
-    Reserved for use in documentation and sample code
-    RFC 5398, RFC 6793
-    65552–131071
-    32
-    Reserved
-    
-    
-    131072–4199999999
-    32
-    Public 32-bit ASNs
-    
-    
-    
-    
-    <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>4</td>         
-      <td>23992</td>
-    </tr> 
-    <tr>
-      <td>11</td>
-      <td>22</td>
-      <td>33</td>
-      <td>45</td>         
-      <td>23992</td>
-    </tr>    
-  </table>";
-
-dd(Helper::loadTable($tablehtmlASN));
+        //dd(Helper::loadTable($tablehtmlASN));
 
         /* STEPS
         $url  = "https://en.wikipedia.org/wiki/Autonomous_system_(Internet)";
@@ -112,12 +120,9 @@ dd(Helper::loadTable($tablehtmlASN));
         //call url
         //load html 
         //extract table html 
-
-        
-
-
-        
     }
+
+    
 
     /**
      * Show the form for creating a new resource.
