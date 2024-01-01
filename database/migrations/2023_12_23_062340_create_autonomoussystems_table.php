@@ -13,8 +13,8 @@ return new class extends Migration
     {
         Schema::create('autonomoussystems', function (Blueprint $table) {
             $table->id();            
-            $table->integer('numbermin');            
-            $table->integer('numbermax');
+            $table->string('numbermin');            
+            $table->string('numbermax');
             $table->integer('bits');
             $table->string('description');
             $table->integer('reference');
