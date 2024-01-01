@@ -88,7 +88,21 @@ class AutonomoussystemController extends Controller
         fclose($file);
     }
 
-
+            public function SeedTld():void {
+                        $file = fopen('tldseeder.csv', 'r');
+                        while (($line = fgetcsv($file)) !== FALSE) {
+                            \DB::table('internettlds')->insert([
+                                'name'=> $line[0],
+                                'entity'=> $line[1],
+                                'explanation'=> $line[2],
+                                'notes'=> $line[3],
+                                'registry'=> $line[4],
+                                'administrator'=> $line[5],
+                                'restriction'=> $line[6],
+                                'typetldid'=> 0
+                            ]);
+                        }
+            }
 
     /**
      * Display a listing of the resource.
@@ -99,6 +113,8 @@ class AutonomoussystemController extends Controller
         $this->SeedCountry();
         $this->SeedAs();
         $this->SeedRootserver();
+        $this->SeedLanguage();
+        $this->SeedTld();
 
         //dd(Helper::loadTable($tablehtmlASN));
 
