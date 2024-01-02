@@ -1,0 +1,981 @@
+.com,commercial,,"This is an open TLD; any person or entity is permitted to register. Though originally intended for use by for-profit business entities, for a number of reasons it became the main TLD for domain names and is currently used by all types of entities including nonprofits, schools, and private individuals. Domain name registrations may be successfully challenged if the holder cannot prove an outside relation justifying reservation of the name,[7] to prevent ""squatting"". It was originally administered by the United States Department of Defense.",Verisign,Verisign,
+.org,organization,,"This is an open TLD; any person or entity is permitted to register. Originally created as a miscellaneous category as stated in RFC 920 (October 1984) ""...any other domains meeting the second level requirements,"" and clarified in RFC 1591 (March 1994), ""This domain is intended as the miscellaneous TLD for organizations that didn't fit anywhere else. Some non-government organizations may fit here.""[8][9] While mainly non-profits have used this domain, it was never restricted from miscellaneous use.",Public Interest Registry,Public Interest Registry,
+.net,network,,"This is an open TLD; any person or entity is permitted to register. According to RFC 1591 (March 1994) ""This domain is intended to hold only the computers of network providers.""[9]",Verisign,Verisign,
+.int,international,,"The .int TLD is strictly limited to organizations, offices, and programs endorsed by a treaty between two or more nations. However, a few grandfathered domains do not meet these criteria.",Internet Assigned Numbers Authority,Internet Assigned Numbers Authority,
+.edu,education,,"The .edu TLD is limited to specific higher educational institutions such as, but not limited to, trade schools and universities. In the U.S., its use was restricted in 2001 to post-secondary institutions accredited by an agency on the list of nationally recognized accrediting agencies. This domain is therefore almost exclusively used by American colleges and universities. Some institutions, such as the Exploratorium, that do not meet the current registration criteria have grandfathered domain names.",Educause (via Verisign),Educause (via Verisign),
+.gov,U.S. national and state government agencies,,"The .gov TLD is limited to United States governmental entities and agencies as well as qualifying state, county and local municipal government agencies, and tribal governments.",Cybersecurity and Infrastructure Security Agency (via Verisign),Cybersecurity and Infrastructure Security Agency (via Verisign),
+.mil,,,,United States Department of Defense,United States Department of Defense,
+.academy,"Schools, military academies, online learning websites, PTAs and student portals, or any site created to be educational on a particular topic.",,,Identity Digital[ID 1],Identity Digital[ID 1],—
+.accountant,"Certified Public Accountants, tax advisors, corporate accountants, personal and business accountants, and professional CPA organizations.",,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.accountants,Accountants and accounting firms.,,,Identity Digital[ID 2],Identity Digital[ID 2],—
+.active,,,,The Active Network,The Active Network,Reserved for Active Network.
+.actor,"Aspiring actors and their agents, theaters and movie studios, entertainment outlets, streaming video sites, movie review sites, and celebrity gossip sites.",,,Identity Digital[n 1],Identity Digital[n 1],—
+.ads,advertising,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],Reserved for Google AdSense.
+.adult,"Sites providing sexually explicit content, such as pornography.",,,ICM Registry,ICM Registry,-
+.aero,Air-transport industry.,,,SITA,SITA,Must verify eligibility for registration; only those in various categories of air-travel-related entities may register.
+.africa,"African and pan-African topics, African Union",,,ZA Central Registry,ZA Central Registry,—
+.agency,"Marketing and advertising agencies, PR or communications agencies, design firms, talent agencies, travel agencies, and other related agencies.",,,Identity Digital[ID 3],Identity Digital[ID 3],—
+.airforce,"Military recruiters, flight training schools, supply companies, military aircraft suppliers and repair companies, and Air Force members and veterans.",,,Identity Digital[n 1],Identity Digital[n 1],—
+.amazon,,,,Amazon,Amazon,Reserved for Amazon.
+.analytics,,,,Campus IP LLC[11],Campus IP LLC[11],Reserved for SAS Institute.
+.apartments,"Property (apartment) managers, condominium/apartment developers, college websites/centers, and city guides and community centers.",,,Identity Digital,Identity Digital,—
+.app,Apps.[13],,,Google[n 2],Google[n 2],—
+.apple,Apple.[14],,,Apple,Apple,Reserved for Apple.[15]
+.archi,architects and architect firms[16],,,STARTING DOT LIMITED,STARTING DOT LIMITED,Restricted to individuals and organizations that can verify participation in architecture industry.[17]
+.army,"Military recruiter, army supply stores, military training schools, army members and veterans",,,Identity Digital[n 1],Identity Digital[n 1],—
+.art,"artists, museums, art galleries, dealers, service providers and contractors",,,UK Creative Ideas,UK Creative Ideas,—
+.arte,,,,,,Reserved for Arte
+.associates,"Accountants, law firms, consulting firms, real estate agencies, health & medical groups",,,Identity Digital[ID 4],Identity Digital[ID 4],—
+.attorney,"Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students",,,Identity Digital[n 1],Identity Digital[n 1],—
+.auction,"Auction houses & online auctions, car and truck auction, B2B commodity auctions, charity auctions for non-profits and schools, buyer and seller communities",,,Identity Digital[n 1],Identity Digital[n 1],—
+.audible,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Audible
+.audio,"stereo/sound systems, music",,,Uniregistry,Uniregistry,—
+.author,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",—
+.auto,vehicles,,,XYZ.com[11],XYZ.com[11],
+.autos,vehicles,,,XYZ.com,XYZ.com,—
+.aws,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Amazon Web Services
+.baby,For selling baby-related products,,,XYZ.com[11],XYZ.com[11],
+.band,"Music venues, ticket sale/resale sites, music band & musician sites, school band sites, music review sites",,,Identity Digital[n 1],Identity Digital[n 1],—
+.bank,banks,,,"fTLD Registry Services, LLC","fTLD Registry Services, LLC",Restricted to banks and savings associations
+.bar,Bars and related industry,,,Punto 2012,Punto 2012,—
+.barefoot,,,,"Gallo Vineyards, Inc.[11]","Gallo Vineyards, Inc.[11]",Reserved for Gallo Vineyards Inc.
+.bargains,"Online retailers, large and small, ""sale"" sections on retail websites, discount & overstock sites, bargain hunters, frugal-living bloggers",,,Identity Digital[ID 5],Identity Digital[ID 5],—
+.baseball,baseball,,,"MLB Advanced Media DH, LLC[11]","MLB Advanced Media DH, LLC[11]",Reserved for MLB
+.basketball,basketball,,,Fédération Internationale de Basketball (FIBA)[11],Fédération Internationale de Basketball (FIBA)[11],Reserved for FIBA
+.beauty,beauty,,,XYZ.com[11],XYZ.com[11],—
+.beer,breweries and beer aficionados,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.best,,,,BestTLD Pty Ltd,BestTLD Pty Ltd,—
+.bestbuy,,,,"BBY Solutions, Inc.[11]","BBY Solutions, Inc.[11]",Reserved for Best Buy
+.bet,gambling,,,Identity Digital plc[11],Identity Digital plc[11],—
+.bible,,,,American Bible Society[11],American Bible Society[11],—
+.bid,auctions,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.bike,"Bicycle & motorcycle enthusiasts, bike retailers & gear shops, bike repair shops, biking event organizers, bike or motorcycle clubs",,,Identity Digital[ID 6],Identity Digital[ID 6],—
+.bingo,"Bingo halls, casinos, online & casual gaming sites, travel agencies",,,Identity Digital,Identity Digital,—
+.bio,Organic agriculture[20],,,Identity Digital[23],Identity Digital[23],"Open TLD; any person or entity is permitted to register; however, registrants who are ""producers, transformers and retailers, or otherwise involved in the field of agriculture, food and farming"" must comply with the Principles of Organic Agriculture.[21][22]"
+.biz,business,,,NeuStar,NeuStar,"Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not held by commercial entities in accordance with the domain's charter. This TLD was created to provide relief for the .com TLD, where many names have already been taken."
+.black,those who like the color black[24],,,Identity Digital,Identity Digital,—
+.blackfriday,"Black Friday, retail",,,Uniregistry,Uniregistry,—
+.blockbuster,,,,Dish DBS Corporation[11],Dish DBS Corporation[11],Reserved for Blockbuster LLC
+.blog,Blogs,,,Automattic[25],Automattic[25],—
+.blue,those who like the color blue[26],,,Identity Digital,Identity Digital,—
+.boo,—,,,Google[n 2],Google[n 2],—
+.book,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.boots,,,,THE BOOTS COMPANY PLC[11],THE BOOTS COMPANY PLC[11],Reserved for Boots Company Ltd
+.boston,"websites related to the city of Boston, Massachusetts USA",,,"Boston TLD Management, LLC[11]","Boston TLD Management, LLC[11]",
+.bot,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]","Previously restricted to online ""bots"" using approved frameworks (Amazon Lex, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots)[27] and now has no restrictions.[28]"
+.boutique,"Specialty online retailers, vintage shops, designers, artists and artisans, craftspeople",,,Identity Digital[ID 7],Identity Digital[ID 7],—
+.box,"individuals and businesses, in order to promote personal cloud storage",,,NS1 Limited,NS1 Limited,—
+.broadway,Broadway theatre,,,"Celebrate Broadway, Inc.[11]","Celebrate Broadway, Inc.[11]",Reserved for members of the Broadway League
+.broker,,,,DOTBROKER REGISTRY LTD[11],DOTBROKER REGISTRY LTD[11],
+.build,construction industry,,,Plan Bee LLC,Plan Bee LLC,
+.builders,"Contractors, subcontractors, commercial/residential architects, interior designers",,,Identity Digital[ID 8],Identity Digital[ID 8],—
+.business,"Creative businesses & agencies, freelancers & independent consultants, any other business looking to differentiate from the competition",,,Identity Digital[ID 9],Identity Digital[ID 9],—
+.buy,sales,,,"Amazon Registry Services, INC[11]","Amazon Registry Services, INC[11]",
+.buzz,marketing and social networking,,,DOTSTRATEGY,DOTSTRATEGY,—
+.cab,"Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions",,,Identity Digital[ID 10],Identity Digital[ID 10],—
+.cafe,"Cafes, restaurants, delis, cafeterias, coffee shops & coffee stands, student lounges, mobile food/beverage vendors, cooking schools",,,Identity Digital,Identity Digital,—
+.call,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.cam,"Cameras, photography, broadcasting, film-making and livestreaming.",,,CAM Connecting SarL [29],CAM Connecting SarL [29],—
+.camera,"Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online",,,Identity Digital[ID 11],Identity Digital[ID 11],—
+.camp,"Camping/RV sites, travel writers & bloggers, outdoor adventure companies, summer camps for kids, hotels, hostels, lodges, bed & breakfast lodging",,,Identity Digital[ID 12],Identity Digital[ID 12],—
+.cancerresearch,"Organizations, research institutes and individuals interested in ending cancer through research[30]",,,Australian Cancer Research Foundation,Australian Cancer Research Foundation,—
+.capital,"Mortgage companies, financial services professionals, investment services, venture capital investors",,,Identity Digital[ID 13],Identity Digital[ID 13],—
+.car,vehicles,,,Cars Registry Limited[11],Cars Registry Limited[11],
+.cards,"Occasion shoppers (holiday, birthday, bereavement), occasion-related websites, gift buyers, corporate HR departments",,,Identity Digital[ID 14],Identity Digital[ID 14],—
+.care,"Surgeons, primary/secondary care physicians, insurance providers, hospitals & clinics, medical, dental, or vision specialists, service based products or services",,,Identity Digital[ID 15],Identity Digital[ID 15],—
+.career,jobs and job-searching,,,dotCareer LLC,dotCareer LLC,—
+.careers,"Career services (coaching, resume writing), job sites & recruiters, business coaches, staffing firms, HR department of any business",,,Identity Digital[ID 16],Identity Digital[ID 16],—
+.cars,Automotive,,,Uniregistry,Uniregistry,—
+.case,,,,CNH Industrial N.V.[11],CNH Industrial N.V.[11],Reserved for CNH Industrial
+.cash,"Pawn shops and consignment shops, currency exchanges, other cash-based businesses, check cashing services",,,Identity Digital[ID 17],Identity Digital[ID 17],—
+.casino,"Casino & online gaming sites, travel agencies, local tourist sites, hotel booking sites",,,Identity Digital,Identity Digital,—
+.catering,"Caterers & personal chefs, specialty food vendors, wedding planners & event planners, event spaces, wholesale suppliers",,,Identity Digital[ID 18],Identity Digital[ID 18],—
+.catholic,Catholicism,,,Dicastery for Communication[11],Dicastery for Communication[11],
+.center,"Community centers, business centers, shopping centers, tourist sites/city centers, tutoring & learning centers",,,Identity Digital[ID 19],Identity Digital[ID 19],—
+.cern,CERN,,,CERN,CERN,CERN
+.ceo,CEOs,,,CEOTLD Pty Ltd,CEOTLD Pty Ltd,—[31]
+.cfd,clothing fashion design,,,ShortDot SA[11],ShortDot SA[11],
+.channel,,,,Google[n 2],Google[n 2],—
+.chat,"Online chat rooms, dating, political, religious, sports, human interest, & hobbyist forums, companies with live chat help desks, chatbot technology companies",,,Identity Digital,Identity Digital,—
+.charity,,,,Identity Digital,Identity Digital,—
+.cheap,"Online retailers, discount sites, overstock sites, businesses who sell bulk products at discounted prices, bargain hunters & frugal-living bloggers",,,Identity Digital[ID 20],Identity Digital[ID 20],—
+.christmas,Christmas,,,Uniregistry,Uniregistry,—
+.church,"Churches, youth organizations, spiritual communities, religion-based organizations, anyone who publishes spiritual or religious content",,,Identity Digital[ID 21],Identity Digital[ID 21],—
+.circle,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",—
+.city,"City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions, transportation businesses",,,Identity Digital[ID 22],Identity Digital[ID 22],—
+.claims,"Insurance adjusters & claims representatives, insurance claims departments (auto, medical, homeowners), customer service departments of insurance companies, law firms",,,Identity Digital[ID 23],Identity Digital[ID 23],—
+.cleaning,"Contractors, commercial/home cleaning services, auto detailing/cleaning services",,,Identity Digital[ID 24],Identity Digital[ID 24],—
+.click,,,,Uniregistry,Uniregistry,—
+.clinic,"Healthcare clinics, medical or healthcare specialists, sports clinics, urgent care clinics",,,Identity Digital[ID 25],Identity Digital[ID 25],—
+.clothing,"Online retailers, department stores, designers",,,Identity Digital[ID 26],Identity Digital[ID 26],—
+.cloud,Companies involved in cloud computing,,,Aruba S.p.A.,Aruba S.p.A.,—
+.club,"groups, organizations, assemblies, communities, general",,,.CLUB DOMAINS,.CLUB DOMAINS,—[32]
+.coach,"Athletic organizations, personal trainers & coaches, business, life, & health coaches, school & community club coaches or tutors, affordable travel, airline, train, car, or other transportation companies",,,Identity Digital,Identity Digital,—
+.codes,"Software and web developers, IT companies, technology R&D companies, coding enthusiasts, coding classes & camps",,,Identity Digital[ID 27],Identity Digital[ID 27],—
+.coffee,"Coffee shops, roasters, wholesalers & suppliers, machine & equipment suppliers and stands",,,Identity Digital[ID 28],Identity Digital[ID 28],—
+.college,Educational,,,XYZ.com,XYZ.com,—
+.community,"City guides & community centers, online communities, neighborhood associations, churches, mosques, temples, and other spiritual communities, local writers & bloggers",,,Identity Digital[ID 29],Identity Digital[ID 29],—
+.company,"Small, medium, or large businesses, business that want to demonstrate authority in their field, makers, artisans, anyone who sells a niche product",,,Identity Digital[ID 30],Identity Digital[ID 30],—
+.compare,,,,iSelect Ltd[11],iSelect Ltd[11],Reserved for Gocompare.com Limited
+.computer,"Computer manufacturers, computer repair services, computer resellers, computer training & education programs, tech companies",,,Identity Digital[ID 31],Identity Digital[ID 31],—
+.condos,"Real estate brokers/agents, property (condominium) managers, mortgage companies, condominium/apartment developers, condominium associations",,,Identity Digital[ID 32],Identity Digital[ID 32],—
+.construction,"Contractors, commercial/residential architects, wholesale and retail construction suppliers",,,Identity Digital[ID 33],Identity Digital[ID 33],—
+.consulting,"Consulting firms, independent consultants, specialty services, businesses that offer expert training",,,Identity Digital[n 1],Identity Digital[n 1],—
+.contact,,,,"Top Level Spectrum, Inc.[11]","Top Level Spectrum, Inc.[11]",
+.contractors,"Construction-related businesses, contractors, subcontractors, independent contractors with unique skills and expertise, unions or other organizations promoting their people and skills",,,Identity Digital[ID 34],Identity Digital[ID 34],—
+.cooking,sharing recipes,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.cool,"Fashion magazines & blogs, meme aggregators, trend tracking sites, online merchants, fun publications & sites",,,Identity Digital[ID 35],Identity Digital[ID 35],—
+.coop,cooperatives,,,DotCooperation,DotCooperation,The .coop TLD is limited to cooperatives as defined by the Rochdale Principles.
+.country,general,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.coupon,discounts and rebates,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.coupons,"Coupon pages, coupon sites, discount sites, coupon-themed blogs, bargain hunters",,,Identity Digital,Identity Digital,—
+.courses,education,,,Open Universities Australia Pty Ltd[11],Open Universities Australia Pty Ltd[11],
+.cpa,accountants and accounting firms,,,American Institute of Certified Public Accountants,American Institute of Certified Public Accountants,Restricted to licensed CPAs and CPA firms
+.credit,"Credit card companies, lenders, credit unions, collection agencies, credit counselors & financial planners",,,Identity Digital[ID 36],Identity Digital[ID 36],—
+.creditcard,"Credit card companies, store/retailer credit card sites, credit counselors & financial planners, credit card processing services",,,Identity Digital[ID 37],Identity Digital[ID 37],—
+.cruise,"Cruise lines, cruise-related products or services, travel agencies & vacation services, private charter boats",,,Viking River Cruises (Bermuda) Ltd.[11],Viking River Cruises (Bermuda) Ltd.[11],
+.cricket,cricket,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.cruises,cruise businesses and travel,,,Identity Digital[ID 38],Identity Digital[ID 38],—
+.cyou,"For any individual or business that shares the ethical values of diversity, inclusivity, and independence[34]",,,Shortdot SA[35],Shortdot SA[35],—
+.dad,fathers,,,Google[n 2],Google[n 2],—
+.dance,"Dance studios & instructors, nightclubs & music venues, dance teams & troupes, dance shoe, clothing & equipment manufacturers, fans of dance & live performances",,,Identity Digital[n 1],Identity Digital[n 1],—
+.data,,,,Dish DBS Corporation[11],Dish DBS Corporation[11],
+.date,online dating,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.dating,"Dating & matchmaker sites, travel sites & city guides, singles meetup groups, traditional “classified” sites, event businesses",,,Identity Digital[ID 39],Identity Digital[ID 39],—
+.day,general,,,Google[n 2],Google[n 2],—
+.deal,sales,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.deals,"Discount sites, bargain hunters, coupon sites, coupon pages. coupon-themed guides, directories and blogs",,,Identity Digital[ID 40],Identity Digital[ID 40],—
+.degree,"Brick-and-mortar schools & universities, online universities, other learning courses, other educational resources",,,Identity Digital[n 1],Identity Digital[n 1],—
+.delivery,"Consumer delivery services, commercial shipping services, transportation services, messenger services, any business that ships their products",,,Identity Digital[ID 41],Identity Digital[ID 41],—
+.democrat,"Political candidates, lobbyists, political parties, fundraising organizations",,,Identity Digital[n 1],Identity Digital[n 1],—
+.dental,"Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care",,,Identity Digital[ID 42],Identity Digital[ID 42],—
+.dentist,"Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care",,,Identity Digital[n 1],Identity Digital[n 1],—
+.design,graphic art and fashion,,,Top Level Design,Top Level Design,—
+.dev,software development,,,Google,Google,—
+.diamonds,"Jewelers, diamond wholesalers and retailers, jewelry appraisers and buyers, pawn shops",,,Identity Digital[ID 43],Identity Digital[ID 43],—
+.diet,dieting and dietary,,,Uniregistry,Uniregistry,—
+.digital,"Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), online event, meetup & gaming sites, technology companies, e-commerce sites",,,Identity Digital[ID 44],Identity Digital[ID 44],—
+.direct,"Direct-to-consumer stores, bargain hunters, transportation services, messenger services, delivery & shipping services",,,Identity Digital[ID 45],Identity Digital[ID 45],—
+.directory,"Listings organizations, name, phone & address directories, online business directories, clubs, groups, & other organizations directories",,,Identity Digital[ID 46],Identity Digital[ID 46],—
+.discount,"Discount sites, bargain hunters, coupon sites, coupon pages, coupon-themed blogs",,,Identity Digital[ID 47],Identity Digital[ID 47],—
+.diy,do-it-yourself,,,"Lifestyle Domain Holdings, Inc.[11]","Lifestyle Domain Holdings, Inc.[11]",
+.docs,Technical Documentation,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],
+.doctor,"Doctors, any business with “doctor” in the name, other health care providers, PhD experts in any field",,,Identity Digital,Identity Digital,
+.dog,"Dog breeders, dog walking, grooming & sitting businesses, veterinarians, animal shelters & adoption centers, pet stores & suppliers",,,Identity Digital,Identity Digital,—
+.domains,"Any web-based service, network consultants, domain brokers, resellers and registrars, home-related products and services",,,Identity Digital[ID 48],Identity Digital[ID 48],—
+.dot,,,,Dish DBS Corporation[11],Dish DBS Corporation[11],
+.download,technology,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.drive,,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],Reserved for Google Drive
+.earth,Individuals or businesses with a worldwide focus,,,"Interlink Co., Ltd.[11]","Interlink Co., Ltd.[11]",—
+.eat,restaurants and foodies,,,Google[n 2],Google[n 2],—
+.eco,"Sustainability minded companies, non-profits and professionals.[36]",,,Big Room Inc.[38],Big Room Inc.[38],Open to anyone pledging a commitment to sustainability action.[37]
+.education,"Colleges & universities, public schools, PTAs & other school groups, education research organizations, any organization focused on educating its audience",,,Identity Digital[ID 49],Identity Digital[ID 49],—
+.email,"Advertising/Marketing/PR/Design agencies, email marketing experts, CRM and marketing technology specialists, anyone who wants a memorable email address",,,Identity Digital[ID 50],Identity Digital[ID 50],—
+.energy,"Electrical, mechanical, chemical, nuclear & thermal energy producers, solar, wind, hydro, bio & other sustainable alternative energy producers, battery manufacturers & oil industry R&D, energy conservation organizations, energy food & drink manufacturers",,,Identity Digital[ID 51],Identity Digital[ID 51],—
+.engineer,"Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers",,,Identity Digital[n 1],Identity Digital[n 1],—
+.engineering,"Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers",,,Identity Digital[ID 52],Identity Digital[ID 52],—
+.edeka,edeka firms,,,EDEKA Verband kaufmännischer Genossenschaften e.V.,EDEKA Verband kaufmännischer Genossenschaften e.V.,—
+.entertainment,"Ticket outlets, travel sites & local tourist sites, performance halls, theaters, & music venues, anyone in the entertainment industry, celebrity news sites",,,Identity Digital,Identity Digital,—
+.enterprises,"Entrepreneurs, startups, parent & holding companies, enterprise SaaS solutions & tech services",,,Identity Digital[ID 53],Identity Digital[ID 53],—
+.equipment,"Home improvement stores, construction equipment rentals, construction equipment sales, sporting goods stores",,,Identity Digital[ID 54],Identity Digital[ID 54],—
+.esq,"lawyers, law firms, legal professionals",,,Google[n 2],Google[n 2],To be restricted to verified lawyers and attorneys[39]
+.estate,"Estate sale management & appraisal services, estate planners & lawyers, real estate agents & brokers",,,Identity Digital[ID 55],Identity Digital[ID 55],—
+.events,"Event planners, sports & gaming agencies/sites, ticket sale/resale sites, city guides & community centers, performance halls, music clubs/bars",,,Identity Digital[ID 56],Identity Digital[ID 56],—
+.exchange,"Foreign currency exchanges, stock brokers, investment fund traders, ETF distributors, brokers, & dealers",,,Identity Digital[ID 57],Identity Digital[ID 57],—
+.expert,"Home services providers, online review sites, skilled worker databases, freelancers, consultants, & subject matter experts",,,Identity Digital[ID 58],Identity Digital[ID 58],—
+.exposed,"Tabloid sites, celebrity romance blog, TV spoiler sites, sites that host leaked documents, investigative journalism sites",,,Identity Digital[ID 59],Identity Digital[ID 59],—
+.express,"Transportation services, messenger services, delivery & shipping services, direct-to-consumer stores",,,Identity Digital,Identity Digital,—
+.fail,"Online meme aggregators, humor websites, video sites",,,Identity Digital[ID 60],Identity Digital[ID 60],—
+.faith,religion and churches,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.family,"Family-focused travel sites, blogs about family-friendly activities & games, family history sites, photo sites, obstetricians & family practice doctors",,,Identity Digital,Identity Digital,—
+.fan,"Fan sites, current events & gossip sites, sport blogs and forums, personal & business sites about niche topics",,,Identity Digital,Identity Digital,
+.fans,general,,,ZDNS International Limited,ZDNS International Limited,—
+.farm,"Real estate brokers/agents, farming services & equipment dealers, farmers & ranchers, property managers, health food distributors, cryptocurrency farmers",,,Identity Digital[ID 61],Identity Digital[ID 61],—
+.fashion,clothing industry,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.fast,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Amazon
+.feedback,feedback and reviews,,,Top Level Spectrum,Top Level Spectrum,—
+.fiat,,,,Stellantis N.V.,Stellantis N.V.,Reserved for Stellantis (previously Fiat Chrysler Automobiles and Fiat S.p.A.)
+.film,films,,,Motion Picture Domain Registry Pty Ltd[11],Motion Picture Domain Registry Pty Ltd[11],
+.final,final versions of anything,,,Núcleo de Informação e Coordenação do Ponto BR - NIC.br[11],Núcleo de Informação e Coordenação do Ponto BR - NIC.br[11],
+.finance,"Investment services, banks & financial institutes, credit counselors & financial planners, accounting firms, lenders",,,Identity Digital[ID 62],Identity Digital[ID 62],—
+.financial,"Investment services, banks & financial institutions, credit counselors & financial planners, accounting firms, lenders",,,Identity Digital[ID 63],Identity Digital[ID 63],—
+.fire,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Amazon (promotion of Fire devices)
+.fish,"Seafood markets, restaurants & suppliers, sport fishing & fly fishing enthusiasts, fishing gear, tackle, & product manufacturers, travel outfitters & fishing guide companies, aquariums, pet & fish supply stores, marine biology programs & conservation organizations",,,Identity Digital[ID 64],Identity Digital[ID 64],—
+.fishing,"fishing businesses, sports, and interests",,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.fit,Fitness and exercise,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.fitness,"Gyms, athletic clubs & family health organizations, personal trainers, weight loss, health & wellness clinics, health & exercise blogs, fitness competition & events companies",,,Identity Digital[ID 65],Identity Digital[ID 65],—
+.flights,"Airline-related products or services, helicopter rides, skydiving, & hang gliding, travel agencies & travel services, private pilots, airport transportation",,,Identity Digital[ID 66],Identity Digital[ID 66],—
+.florist,"Florists, flower delivery services, floral designers, flower seed suppliers",,,Identity Digital[ID 67],Identity Digital[ID 67],—
+.flowers,florists and gardens,,,Uniregistry,Uniregistry,—
+.fly,travel,,,Google[n 2],Google[n 2],"To be restricted to verified airlines, travel agencies and travel resellers[40]"
+.foo,programming and development,,,Google[n 2],Google[n 2],—[41]
+.food,,,,"Lifestyle Domain Holdings, Inc.[11]","Lifestyle Domain Holdings, Inc.[11]",
+.foodnetwork,,,,"Lifestyle Domain Holdings, Inc.[11]","Lifestyle Domain Holdings, Inc.[11]",Reserved for Food Network
+.football,"Professional & amateur football & soccer teams, football clothing, gear & fan merchandise, football equipment manufacturers, football coaches & players",,,Identity Digital,Identity Digital,—
+.forsale,"Individual real estate brokers and brokerages, wholesalers and retailers across many product categories, discount, flash sale and deal websites, auction sites and individuals selling items they no longer need",,,Identity Digital[n 1],Identity Digital[n 1],—
+.forum,forums,,,"Fegistry, LLC[11]","Fegistry, LLC[11]",
+.foundation,"Charitable organizations, public school foundations, other philanthropic organizations & foundations",,,Identity Digital[ID 68],Identity Digital[ID 68],—
+.free,sales,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.frontdoor,,,,"Lifestyle Domain Holdings, Inc.[11]","Lifestyle Domain Holdings, Inc.[11]",Reserved for HGTV
+.fun,,,,Radix Registry,Radix Registry,—
+.fund,"Investment services, banks & financial institutions, credit counselors & financial planners, lenders",,,Identity Digital[ID 69],Identity Digital[ID 69],—
+.furniture,"Home décor and furnishing stores, department stores, home designers, vintage stores, antique dealers",,,Identity Digital[ID 70],Identity Digital[ID 70],—
+.fyi,"""for your information""",,,Identity Digital,Identity Digital,—
+.gallery,"Galleries, professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online",,,Identity Digital[ID 71],Identity Digital[ID 71],—
+.game,gaming,,,"Uniregistry, Corp.[11]","Uniregistry, Corp.[11]",
+.games,"Gaming sites, forums & reviews, online or brick & mortar game stores/clubs, sports events, clubs—professional & recreational, casinos",,,Identity Digital,Identity Digital,
+.garden,gardening,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.gay,gay individuals or supportive organisations,,,Top Level Design[ID 72],Top Level Design[ID 72],—
+.gdn,general,,,GDN Registry,GDN Registry,—
+.gift,gift-giving,,,Uniregistry,Uniregistry,—
+.gifts,"Gift buyers, discount sites, corporate HR departments, bargain hunters",,,Identity Digital[ID 73],Identity Digital[ID 73],—
+.gives,"Philanthropic organizations and foundations, charities, nonprofits, corporate giving initiatives, volunteer organizations",,,Identity Digital[n 1],Identity Digital[n 1],—
+.glass,"Glass & glass repair shops, glass departments within home supply stores, contractors, windshield repair & auto glass businesses, DIYers/artists",,,Identity Digital[ID 74],Identity Digital[ID 74],—
+.gle,Google abbreviations,,,Charleston Road Registry Inc. (a Google subsidiary)[44],Charleston Road Registry Inc. (a Google subsidiary)[44],In use for some URL abbreviations related to Google such as forms.gle and goo.gle.
+.global,"general, companies or individuals with a global focus or presence",,,Dot GLOBAL,Dot GLOBAL,—
+.gmbh,German limited liability companies,,,"Binky Moon, LLC","Binky Moon, LLC",—
+.gold,"Jewelers, gold traders and dealers, coin sellers and traders, trophy and awards shops",,,Identity Digital,Identity Digital,—
+.golf,"Professional & amateur golf organizations, golf courses, equipment suppliers & manufacturers, golf travel & event companies, golf players, enthusiasts & spectators, sports networks",,,Identity Digital,Identity Digital,—
+.google,Google,,,Alphabet Inc.,Alphabet Inc.,In use for some websites related to Google such as blog.google.
+.gop,Republican Party politics,,,Republican State Leadership Committee,Republican State Leadership Committee,—
+.graphics,"Web design firms, freelance designers, graphic artists",,,Identity Digital[ID 75],Identity Digital[ID 75],—
+.green,the environmentally-focused,,,Identity Digital,Identity Digital,"""As a Registrant you may not ... use a .green name or its content in a way that negatively affects the mission, purpose of the .green TLD, or its brand.""[46]"
+.gripe,"Online complaint sites, online forums, customer service providers, feedback sites, blogs about scams",,,Identity Digital[ID 76],Identity Digital[ID 76],—
+.grocery,,,,"Wal-Mart Stores, Inc.[11]","Wal-Mart Stores, Inc.[11]",Reserved for Walmart
+.group,"Groups based on hobbies or interests (running, crafts, gaming), group-based businesses (medical practices, law firms, financial advisors), professional associations, support groups",,,Identity Digital,Identity Digital,—
+.guide,"City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions & guides, outdoor adventure companies",,,Identity Digital[ID 77],Identity Digital[ID 77],—
+.guitars,Guitars,,,Uniregistry,Uniregistry,—
+.guru,"Mindfulness & yoga practices, spiritual leadership sites, any training program, work-for-hire sites, freelancers, consultants, & subject matter experts",,,Identity Digital[ID 78],Identity Digital[ID 78],—
+.hair,haircare products and services,,,XYZ.com[11],XYZ.com[11],
+.hangout,,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],Reserved for Google Hangouts
+.haus,German housing and real estate,,,Identity Digital,Identity Digital,—
+.health,health and related topics,,,"DotHealth, LLC[11]","DotHealth, LLC[11]",
+.healthcare,"Primary/secondary care physicians, hospitals & clinics, healthcare insurance providers & brokers, company HR/benefits departments",,,Identity Digital[ID 79],Identity Digital[ID 79],—
+.help,help sites,,,Uniregistry,Uniregistry,—
+.here,generic geographic,,,Google[n 2],Google[n 2],—
+.hiphop,Hip hop culture,,,Uniregistry,Uniregistry,—
+.hiv,AIDS and HIV awareness,,,dotHIV,dotHIV,—
+.hockey,"Sports media, sporting goods stores & hockey equipment suppliers, professional, minor league & amateur hockey teams, hockey fans, fantasy leagues, sponsors, coaches & referees",,,Identity Digital,Identity Digital,—
+.holdings,"Holding companies, private equity firms, real estate developers",,,Identity Digital[ID 80],Identity Digital[ID 80],—
+.holiday,"Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, city guides & resource sites, hotels, hostels, B&Bs, lodging",,,Identity Digital[ID 81],Identity Digital[ID 81],—
+.homegoods,,,,"The TJX Companies, Inc.[11]","The TJX Companies, Inc.[11]",Reserved for HomeGoods
+.homes,real estate professionals,,,Dominion Enterprises,Dominion Enterprises,—
+.homesense,,,,"The TJX Companies, Inc.[11]","The TJX Companies, Inc.[11]",Reserved for HomeSense
+.horse,horse-related businesses and interest,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.hospital,"Hospitals & clinics, healthcare providers, medical, dental, or vision specialists, insurance providers",,,Identity Digital,Identity Digital,
+.host,network companies,,,Radix Registry,Radix Registry,—
+.hosting,,,,Uniregistry,Uniregistry,—
+.hot,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.hotels,,,,Booking.com B.V.[11],Booking.com B.V.[11],Reserved for Booking.com
+.house,"Real estate brokers/agents, mortgage companies, home builders, construction/home improvement suppliers, home improvement sites & blogs",,,Identity Digital[ID 82],Identity Digital[ID 82],—
+.how,how-to guides,,,Google[n 2],Google[n 2],—
+.ice,,,,"IntercontinentalExchange, Inc.[11]","IntercontinentalExchange, Inc.[11]",Reserved for Intercontinental Exchange
+.icu,entrepreneurs and business owners,,,ShortDot SA,ShortDot SA,—
+.inc,Corporations,,,Intercap Registry Inc.,Intercap Registry Inc.,
+.industries,"Machine or equipment manufacturers, manufacturers, tech or biotech companies, professional associations, businesses with “industries” in their names",,,Identity Digital[ID 83],Identity Digital[ID 83],—
+.info,information,,,Identity Digital,Identity Digital,—
+.ing,"Verbal suffix: e.g., ""jump.ing""",,,Google[n 2],Google[n 2],—
+.ink,creative printing or tattooing[48],,,Top Level Design,Top Level Design,—
+.institute[49],"Educational institutions, training programs, foundations, research organizations, military schools",,,Identity Digital[ID 84],Identity Digital[ID 84],—
+.insurance,insurance companies,,,fTLD Registry Services LLC[11],fTLD Registry Services LLC[11],
+.insure,"Insurance companies (life, auto, homeowners, renters), insurance divisions of larger companies (car rentals, warranties), insurance brokers & advisors",,,Identity Digital[ID 85],Identity Digital[ID 85],—
+.international,"Any organization with an international presence, international consultants, import/export businesses, international travel organizations",,,Identity Digital[ID 86],Identity Digital[ID 86],—
+.investments,"Investment services (institutional, private), wealth management services, financial planners, brokerage firms",,,Identity Digital[ID 87],Identity Digital[ID 87],—
+.irish,"Airline-related products or services, domestic/International travel agencies, resources & services, travel writers & bloggers, Ireland travel guides & resource sites, seasonal opportunities (St. Patrick's Day)",,,Identity Digital,Identity Digital,—
+.jewelry,"Jewelers, jewelry buyers, online retailers, department stores",,,Identity Digital,Identity Digital,—
+.jobs,Employment,,,Employ Media,Employ Media,For websites with job opportunities and job listings.[50]
+.joy,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",—
+.kim,Kim (Korean surname),,,Identity Digital,Identity Digital,—
+.kitchen,"Restaurants, cafes, & delis, food stands & mobile vendors, meal services & personal chefs, kitchen supply stores, food blogs & recipe sites",,,Identity Digital[ID 88],Identity Digital[ID 88],—
+.kosher,Kosher food certification and regulations,,,OK Kosher Certification,OK Kosher Certification,—
+.kpn,Dutch Telecom Company,,,,,Only available to KPN.
+.land,"Real estate brokers and agents, residential/commercial land developers, home builders, mortgage companies, traditional “classified” sites",,,Identity Digital[ID 89],Identity Digital[ID 89],—
+.lat,Latin American communities and users,,,ECOM-LAC[11],ECOM-LAC[11],
+.law,practitioners and educators in law,,,Minds + Machines Group Limited[11],Minds + Machines Group Limited[11],"Restricted to qualified lawyers, courts of law, law schools, and legal regulators.[51]"
+.lawyer,"Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students",,,Identity Digital[n 1],Identity Digital[n 1],—
+.lease,"Real estate brokers/agents, property managers, condo/apartment developers, real estate law firms",,,Identity Digital[ID 90],Identity Digital[ID 90],—
+.leclerc,,,,A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc,A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc,Reserved for E.Leclerc
+.legal,"Attorneys, lawyers & law firms, corporate legal teams, paralegals, legal advocates, committees, associations and interest groups associated with the law",,,Identity Digital,Identity Digital,—
+.lgbt,"the lesbian, gay, bisexual and transgender community",,,Identity Digital,Identity Digital,"""Registrants are prohibited from using the .LGBT domain in a manner that is harmful, threatening, abusive, harassing, defamatory, or hateful with respect to the LGBT community.""[52]"
+.life,"Wellness and health experts, charities, coaches & personal development enthusiasts, lifestyle bloggers, anyone who wants to share personal stories",,,Identity Digital[ID 91],Identity Digital[ID 91],—
+.lifeinsurance,life insurance,,,American Council of Life Insurers[11],American Council of Life Insurers[11],
+.lighting,"Lighting & lighting repair shops, lighting departments within home supply stores, contractors, commercial/residential architects, DIYers",,,Identity Digital[ID 92],Identity Digital[ID 92],—
+.like,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.limited,"Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products",,,Identity Digital[ID 93][53],Identity Digital[ID 93][53],—
+.limo,"Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, lodging, weddings, party and occasion-related services",,,Identity Digital[ID 94],Identity Digital[ID 94],—
+.link,connecting to information[54],,,Uniregistry,Uniregistry,—
+.live,"Live streaming sites, entertainment/music venues, news sites/blogs, ticket sale/resale sites, video production companies",,,Identity Digital,Identity Digital,—
+.living,,,,"Lifestyle Domain Holdings, Inc.[11]","Lifestyle Domain Holdings, Inc.[11]",
+.loan,banks and lenders,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.loans,"Mortgage companies, personal loan agencies, auto loan agencies & car dealerships, credit consolidation services",,,Identity Digital[ID 95],Identity Digital[ID 95],—
+.locker,,,,Dish DBS Corporation[11],Dish DBS Corporation[11],Reserved for DISH DBS Corporation
+.lol,LOL: laughing out loud (humorous or comedic content),,,Uniregistry[55],Uniregistry[55],—
+.lotto,lottery,,,Identity Digital,Identity Digital,—
+.love,dating sites,,,,,—
+.ltd,"Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products",,,Identity Digital,Identity Digital,—
+.luxury,businesses catering to the wealthy,,,Luxury Partners,Luxury Partners,—
+.makeup,,,,XYZ.com[11],XYZ.com[11],
+.management,"Property managers, wealth management firms, money management, systems & network managers, leadership teams",,,Identity Digital[ID 96],Identity Digital[ID 96],—
+.map,maps and navigation,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],
+.market,"Online retailers, independent or chain grocery stores, buyer and seller communities, discount sites & coupon sites",,,Identity Digital[n 1],Identity Digital[n 1],—
+.marketing,"Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), staffing agencies, marketing consultants",,,Identity Digital[ID 97],Identity Digital[ID 97],—
+.markets,,,,Donuts[ID 98],Donuts[ID 98],
+.mba,"Colleges, universities, & graduate programs, online educational sites, job search sites, MBA candidates",,,Identity Digital,Identity Digital,—
+.med,medicine and related topics,,,Medistry LLC[11],Medistry LLC[11],
+.media,"Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), news outlets, media bloggers, celebrity publications, digital publishers & graphic designers",,,Identity Digital[ID 99],Identity Digital[ID 99],—
+.meet,"social gatherings, meeting new people",,,Identity Digital,Identity Digital,—
+.meme,Internet memes,,,Google[n 2],Google[n 2],—
+.memorial,"News site obituaries, personal tribute sites, floral & funeral arrangement companies",,,Identity Digital,Identity Digital,—
+.men,men,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.menu,restaurants,,,Wedding TLD2,Wedding TLD2,—
+.mint,,,,"Intuit Administrative Services, Inc.[11]","Intuit Administrative Services, Inc.[11]",Reserved for Intuit Mint
+.mobi,mobile devices,,,Identity Digital,Identity Digital,Must be used for mobile-compatible sites in accordance with standards.
+.mobile,,,,Dish DBS Corporation[11],Dish DBS Corporation[11],
+.mobily,,,,GreenTech Consultancy Company W.L.L.[11],GreenTech Consultancy Company W.L.L.[11],Reserved for Mobily
+.moe,Japanese otaku culture; see moe (slang),,,Interlink,Interlink,—
+.mom,mothers,,,"Uniregistry, Corp.[11]","Uniregistry, Corp.[11]",
+.money,"Lenders, financial services businesses, money blogs & news sites, investment bankers & brokers, financial planners & experts",,,Identity Digital,Identity Digital,—
+.monster,,,,XYZ.com,XYZ.com,
+.mortgage,"Mortgage brokers, real estate brokers/agents, home buyers, traditional “classified” sites",,,Identity Digital[n 1],Identity Digital[n 1],—
+.motorcycles,motorcycles,,,DERMotorcycles,DERMotorcycles,—
+.mov,digital video,,,Google[n 2],Google[n 2],—
+.movie,"Streaming movie services, movie studios & distributors, movie theaters & entertainment outlets, ticket sale/resale sites, movie review sites",,,Identity Digital,Identity Digital,—
+.museum,museums,,,Museum Domain Management Association,Museum Domain Management Association,Must be verified as a legitimate museum.
+.music,Music dissemination and appreciation,,,Under contention,Under contention,—
+.name,"individuals, by name",,,Verisign,Verisign,"Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not by individuals (or the owners of fictional characters) in accordance with the domain's charter."
+.navy,"Naval training schools, navy supply stores, military recruiters, credit unions, navy members and veterans",,,Identity Digital[n 1],Identity Digital[n 1],—
+.network,"IT professionals, tech consultants, career sites, industry-specific professional groups, social networks",,,Identity Digital[ID 100],Identity Digital[ID 100],—
+.new,Websites where people can create something,,,Google[n 2],Google[n 2],"The second-level domain name must be the thing to be created immediately when a user visits the .new website. Most likely, the .new will redirect to a company's main website."
+.news,"News organizations, educational publications, trade publications, neighborhood news blogs",,,,,—
+.nexus,,,,Google[n 2],Google[n 2],
+.ngo,"Non-governmental organizations.
+Sold packaged with .ong.",,,Public Interest Registry,Public Interest Registry,"Restricted to validated NGOs, as determined by PIR.[56]"
+.ninja,"Sites promoting specialized skills, repair services (auto, appliance, etc.), gaming sites, martial arts organizations",,,Identity Digital[n 1],Identity Digital[n 1],—
+.now,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.ntt,,,,Nippon Telegraph And Telephone Corporation.[11],Nippon Telegraph And Telephone Corporation.[11],Restricted to use by NTT Japan.[57]
+.observer,,,,Donuts[ID 98],Donuts[ID 98],
+.org,general,,,Public Interest Registry,Public Interest Registry,—
+.one,general,,,One Registry,One Registry,—
+.ong,"Non-governmental organizations.
+Sold packaged with .ngo.",,,Public Interest Registry,Public Interest Registry,"Restricted to validated NGOs, as determined by PIR.[56]"
+.onl,generic,,,I-REGISTRY,I-REGISTRY,—
+.online,generic,,,Radix Registry,Radix Registry,—
+.ooo,general,,,Infibeam,Infibeam,
+.open,"private to the ""Registry Operator and its qualified Affiliates and Trademark Licensees""[58]",,,"American Express Travel Related Services Company, Inc.[11]","American Express Travel Related Services Company, Inc.[11]",
+.organic,"organic gardeners, farmers, foods, etc.",,,Identity Digital,Identity Digital,Registrants must be verified as a member of the organic community.[59]
+.origins,,,,The Estée Lauder Companies Inc.[11],The Estée Lauder Companies Inc.[11],Reserved for Origins
+.page,,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],
+.partners,"Law firms, real estate agencies, investment firms, accounting firms, nonprofit organizations",,,Identity Digital[ID 101],Identity Digital[ID 101],—
+.parts,"Appliance wholesalers & service, tool rentals & service businesses, auto/boat/heavy equipment businesses",,,Identity Digital[ID 102],Identity Digital[ID 102],—
+.party,nightclubs and social gatherings,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.pay,electronic payments,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.pet,animals and pets,,,Identity Digital[11],Identity Digital[11],
+.pharmacy,pharmacies,,,National Association of Boards of Pharmacy,National Association of Boards of Pharmacy,"""All registrants within the .pharmacy gTLD are vetted prior to registration to confirm that they meet all applicable regulatory standards, including pharmacy licensure and valid prescription requirements, in the jurisdictions where they are based and where they serve patients.""[60]"
+.phone,telephone-related businesses,,,Dish DBS Corporation[11],Dish DBS Corporation[11],
+.photo,photography and photo-sharing,,,Uniregistry,Uniregistry,—
+.photography,"Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online",,,Identity Digital[ID 103],Identity Digital[ID 103],—
+.photos,"Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online",,,Identity Digital[ID 104],Identity Digital[ID 104],—
+.physio,physical therapists,,,PhysBiz,PhysBiz,"Must be eligible for membership within an association that is a member of the World Confederation for Physical Therapy, have proper training as a physical therapist outside WCPT's reach, or otherwise supports physical therapy.[61][62]"
+.pics,photography and photo-sharing,,,Uniregistry,Uniregistry,—
+.pictures,"Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online",,,Identity Digital[ID 105],Identity Digital[ID 105],—
+.pid,personal identification,,,Top Level Spectrum,Top Level Spectrum,—
+.pin,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.pink,those who like the color pink,,,Identity Digital,Identity Digital,—
+.pizza,"Pizzerias, take & bake pizza shops, Italian or Greek restaurants, pizza brands found in grocery stores",,,Identity Digital[ID 106],Identity Digital[ID 106],—
+.place,"Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, tourist attractions, hotels, hostels, B&Bs, lodging",,,Identity Digital[ID 107],Identity Digital[ID 107],—
+.plumbing,"Plumbers & plumbing repair businesses, plumbing departments within home supply stores, contractors/subcontractors, DIYers",,,Identity Digital[ID 108],Identity Digital[ID 108],—
+.plus,"Consumer commodity stores & sites, clothing (plus, big & tall), service-based businesses, any entity wanting to show their competitive advantage",,,Identity Digital,Identity Digital,—
+.poker,Poker players and sites,,,Identity Digital[ID 109],Identity Digital[ID 109],—
+.porn,adult entertainment (pornography),,,Identity Digital,Identity Digital,"For sites providing sexually explicit content, such as pornography."
+.post,postal services,,,Universal Postal Union,Universal Postal Union,"The .post TLD is restricted to Postal Administrations as defined in the Universal Postal Union constitution, and their large customers who wish to provide ""Trusted Postal Services"".[63]"
+.press,publishing and journalism,,,Radix Registry,Radix Registry,—
+.prime,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Amazon Prime
+.pro,professions/professionals,,,Identity Digital[65],Identity Digital[65],—
+.productions,"Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), video production services, anyone in the film industry",,,Identity Digital[ID 110],Identity Digital[ID 110],—
+.prof,"Professors, teachers and learning",,,Google[n 2],Google[n 2],—
+.promo,advertising,,,Identity Digital[11],Identity Digital[11],
+.properties,"Real estate brokers/agents, residential/Commercial land developers, property (condo/apartment) managers, home builders, mortgage companies",,,Identity Digital[ID 111],Identity Digital[ID 111],—
+.property,real estate,,,Uniregistry,Uniregistry,—
+.protection,security,,,XYZ.COM LLC[11],XYZ.COM LLC[11],
+.pub,"Pubs, bars & nightclubs, burger joints, breweries & taphouses, beer distributors, restaurant & bar supplierspublications",,,Identity Digital[n 1],Identity Digital[n 1],—
+.qpon,coupons,,,dotCOOL,dotCOOL,—
+.quebec,People and businesses in Quebec,,,—,—,—
+.racing,racing,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.radio,"radio stations, amateur radio operators",,,European Broadcasting Union (EBU)[11],European Broadcasting Union (EBU)[11],
+.read,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.realestate,real estate,,,dotRealEstate LLC[11],dotRealEstate LLC[11],
+.realtor,realtors,,,Real Estate Domains,Real Estate Domains,"To be restricted to members of the National Association of Realtors and the Canadian Real Estate Association, and related associations.[66]"
+.realty,realty and housing,,,"Fegistry, LLC[11]","Fegistry, LLC[11]",
+.recipes,"Recipe sites, food & beverage grocery brands, health & fitness organizations, cooking enthusiasts, personal/professional chefs",,,Identity Digital[ID 112],Identity Digital[ID 112],—
+.red,"those who like the color red[67]
+Also Spanish variant of .net
+Also likely to be attractive for domain hacks for words that end with '-red'.",,,Identity Digital,Identity Digital,—
+.rehab,"Physical and occupational therapists and professionals, drug, alcohol and gambling addiction counselors, rehabilitation facilities and recovery centers, online health directories, physical or emotional health associations",,,Identity Digital[n 1],Identity Digital[n 1],—
+.reit,real estate investment trusts,,,National Association of Real Estate Investment Trusts,National Association of Real Estate Investment Trusts,"Restricted to REITs, as determined by national law.[68]"
+.rent,Real estate professionals and small businesses,,,xyz.xyz,xyz.xyz,—
+.rentals,"Real estate brokers/agents, city guides, college housing centers, & community centers, vehicle, equipment, or entertainment/event rentals, property managers, condo/apartment developers",,,Identity Digital[ID 113],Identity Digital[ID 113],—
+.repair,"General or specialty repair shops, construction contractors/subcontractors, DIYers, appliance wholesalers & service, auto/boat businesses",,,Identity Digital[ID 114],Identity Digital[ID 114],—
+.report,"News and current events sites, financial reporting sites, financial or business analysts, consumer product reviews, police, school, or other community report listings",,,Identity Digital[ID 115],Identity Digital[ID 115],—
+.republican,"Political candidates, lobbyists, political parties, fundraising organizations",,,Identity Digital[n 1],Identity Digital[n 1],—
+.rest,Restaurants and related industry,,,Punto 2012,Punto 2012,—
+.restaurant,"Casual eateries, gourmet restaurants, suppliers, chains, review sites, reservation sites & services",,,Identity Digital[ID 116],Identity Digital[ID 116],—
+.review,public reviews,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.reviews,"News media, food publications, travel publications, literary publications, any product & service with online reviews",,,Identity Digital[n 1],Identity Digital[n 1],—
+.rich,businesses catering to the wealthy,,,I-REGISTRY,I-REGISTRY,—
+.rip,"Loved ones seeking to memorialize the deceased, funeral homes and cemeteries, businesses that support the funeral industry, obituary websites[70]",,,Identity Digital[n 1],Identity Digital[n 1],—
+.rocks,"Pop culture sites, niche and fan sites, musicians, gemstone & jewelry companies",,,Identity Digital[n 1],Identity Digital[n 1],—
+.rodeo,Rodeo interest,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.room,lodging or room design,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.rugby,rugby,,,World Rugby Strategic Developments Limited[11],World Rugby Strategic Developments Limited[11],
+.run,"Runners, running shoe retailers, specialty running gear shops, running event organizers",,,Identity Digital,Identity Digital,—
+.safe,security and safety,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.sale,"Online and brick-and-mortar retailers and wholesalers, automotive and motorcycle dealers, discount, flash sale, and deal websites, auction sites and individuals selling items they no longer need",,,Identity Digital,Identity Digital,—
+.salon,"Hair salons, nail salons, beauty product companies, beauty schools",,,Identity Digital,Identity Digital,—
+.save,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.sbi,,,,State Bank of India,State Bank of India,
+.scholarships,scholarship related,,,Scholarships.com[71][72],Scholarships.com[71][72],—
+.school,"Public schools, private & charter schools, specialty and trade schools, online learning sites, resource sites for teachers",,,Identity Digital[ID 117],Identity Digital[ID 117],—
+.science,science-related sites,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.search,search engines,,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],
+.secure,security,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.security,,,,XYZ.COM LLC[11],XYZ.COM LLC[11],
+.select,,,,iSelect Ltd[11],iSelect Ltd[11],
+.services,"Service division of any company, home services (cleaning, landscaping, plumbing, pet care), business services (tech support, interior design, translation services), community service organizations",,,Identity Digital[ID 118],Identity Digital[ID 118],—
+.sex,adult entertainment (pornography),,,ICM Registry,ICM Registry,"For sites providing sexually explicit content, such as pornography."
+.sexy,adult entertainment,,,Uniregistry,Uniregistry,—
+.shoes,"Shoe stores, department stores, online retailers, athletic shoe retailers, discount shoe stores",,,Identity Digital[ID 119],Identity Digital[ID 119],—
+.shop,,,,"GMO Registry, Inc.[11]","GMO Registry, Inc.[11]",
+.shopping,"Online retailers, shopping centers, personal shoppers, discount sites & coupon sites, shopping blogs & product reviews",,,Identity Digital,Identity Digital,
+.show,"Ticket sale/resale sites, performance halls, music clubs/bars, streaming video services, movie review sites, travel sites & city guides",,,Identity Digital,Identity Digital,—
+.showtime,,,,CBS Domains Inc.[11],CBS Domains Inc.[11],Reserved for Showtime
+.silk,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",Reserved for Amazon Silk
+.singles,"(Tickets) Ticket sale/resale sites, gaming agencies, movie review sites, city guides, sports sites(Dating) Dating & matchmaker sites, singles meetup groups, traditional “classified” sites, travel sites & city guides",,,Identity Digital[ID 120],Identity Digital[ID 120],—
+.site,general,,,Radix Registry,Radix Registry,—
+.ski,skiing,,,STARTING DOT LIMITED[11],STARTING DOT LIMITED[11],
+.skin,,,,XYZ.com,XYZ.com,
+.sky,,,,Sky International AG[11],Sky International AG[11],
+.sling,,,,Hughes Satellite Systems Corporation[11],Hughes Satellite Systems Corporation[11],Reserved for Sling Media
+.smile,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.sncf,,,,SNCF,SNCF,Reserved to the SNCF company.
+.soccer,"Professional & amateur soccer clubs, soccer equipment suppliers & manufacturers, soccer & sports media networks, soccer players, enthusiasts, & spectators, soccer camps, coaches, & training organizations",,,Identity Digital,Identity Digital,—
+.social,"Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), blogs & forums, event & meetup groups, any person or organization driving awareness of their social presence(Actual use also includes Fediverse services, such as Mastodon)",,,Identity Digital[n 1],Identity Digital[n 1],—
+.software,"Software testing, support, & consulting companies, software product developers & manufacturers, software training & educational institutions, software resellers",,,Identity Digital[n 1],Identity Digital[n 1],—
+.solar,"Renewable & sustainable energy producers, solar panel, roof tile, & storage producers, solar cell battery, chargers, lights, speakers, & generator manufacturers, sunglass, shades, UV clothing, sunblock & other solar protection products",,,Identity Digital[ID 121],Identity Digital[ID 121],—
+.solutions,"SaaS providers, people who offer do-it-yourself tips and tutorials, consultants, any business focused on providing the right solutions to their customers’ problems.",,,Identity Digital[ID 122],Identity Digital[ID 122],—
+.song,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.spa,Spas,,,Asia Spa and Wellness Promotion Council Limited,Asia Spa and Wellness Promotion Council Limited,—
+.space,as a creative space,,,Radix Registry,Radix Registry,—
+.spreadbetting,Spread betting,,,DOTSPREADBETTING REGISTRY LTD[11],DOTSPREADBETTING REGISTRY LTD[11],
+.spot,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.sport,sport institutions,,,Global Association of International Sports Federations (GAISF),Global Association of International Sports Federations (GAISF),
+.srl,Spanish/Italian/Romanian/French limited liability companies,,,InterNetX GmbH,InterNetX GmbH,
+.storage,Self storage,,,Self Storage Company LLC[11],Self Storage Company LLC[11],
+.store,stores,,,Radix Registry,Radix Registry,—
+.stream,streaming media,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],
+.studio,"Advertising/Marketing/PR/Design agencies, creative freelancers, other creative agencies (i.e., animation, production), dance, yoga, or fitness studios",,,Identity Digital[n 1],Identity Digital[n 1],—
+.study,education,,,OPEN UNIVERSITIES AUSTRALIA PTY LTD[11],OPEN UNIVERSITIES AUSTRALIA PTY LTD[11],
+.style,"Fashion bloggers, department stores, designers, online retailers",,,Identity Digital,Identity Digital,—
+.sucks,gripe sites,,,Vox Populi,Vox Populi,—
+.supplies,"Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, home services retailers",,,Identity Digital[ID 123],Identity Digital[ID 123],—
+.supply,"Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses",,,Identity Digital[ID 124],Identity Digital[ID 124],—
+.support,"IT/Tech support services, social services, customer service & support departments, independent consultants & consulting firms, staffing services",,,Identity Digital[ID 125],Identity Digital[ID 125],—
+.surf,surfing,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.surgery,"Surgeons, primary/secondary care physicians, hospitals & clinics, healthcare providers, insurance providers",,,Identity Digital[ID 126],Identity Digital[ID 126],—
+.systems,"IT businesses, other tech-focused businesses, businesses that sell electronics or home security systems, organizational consultants",,,Identity Digital[ID 127],Identity Digital[ID 127],—
+.talk,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.tattoo,tattoo aficionados,,,Uniregistry,Uniregistry,—
+.tax,"Accounting & bookkeeping firms, tax advisors, auditors, financial experts & advisors",,,Identity Digital,Identity Digital,—
+.taxi,"Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions",,,Identity Digital,Identity Digital,—
+.team,"Professional & amateur sports teams, sports equipment suppliers & manufacturers, sports media, athletes & fans, clubs, online communities & business organizations",,,Identity Digital,Identity Digital,—
+.tech,technology,,,Radix Registry,Radix Registry,—
+.technology,"Tech-focused businesses & tech startups, businesses that sell to tech companies, developers, coders, programmers, computer retailers, technology blogs, news sites, & review sites, hardware & software companies, R&D companies, tech product manufacturers",,,Identity Digital,Identity Digital,—
+.tel,internet communication services,,,,,A contact directory housing all types of contact information directly in the Domain Name System.
+.tennis,"Tennis courts, clubs & other venues, tennis equipment suppliers and retailers, professional & amateur tennis players, sports media",,,Identity Digital,Identity Digital,—
+.theater,"Entertainment & movie theater outlets, live performance theaters, professional performer associations, movie review sites, travel sites & city guides",,,Identity Digital,Identity Digital,—
+.theatre,theatre,,,XYZ.COM LLC[11],XYZ.COM LLC[11],
+.tickets,ticket resale,,,XYZ.COM LLC[11],XYZ.COM LLC[11],
+.tips,"Travel, hotel & hospitality companies, cooking & recipe publications, parenting & and relationship publications, manufacturers of any product with assembly instructions, publications that provide advice on gratuity practices around the world",,,Identity Digital,Identity Digital,—
+.tires,"Tire wholesalers, tire retailers, auto repair shops",,,Identity Digital,Identity Digital,—
+.today,"News & current event sites, websites that publish daily content, daily inspiration sites, sites with daily rotating deals or offers, anyone who wants to spur immediate action",,,Identity Digital,Identity Digital,—
+.tools,"Tool shops, tool departments within home supply stores, contractors, subcontractors, construction-related businesses",,,Identity Digital,Identity Digital,—
+.top,general,,,Jiangsu Bangning,Jiangsu Bangning,—
+.tours,"Airline-related products or services, travel agencies, resources & services, tourist attractions, outdoor adventure companies, private plane/helicopter tours & services",,,Identity Digital,Identity Digital,—
+.town,"Travel agencies, resources & services, local business associations, city guides & resource sites, transportation businesses, hotels, hostels, B&Bs, lodging",,,Identity Digital,Identity Digital,—
+.toys,"Toy stores, online retailers, department stores, game companies, sporting goods companies",,,Identity Digital,Identity Digital,—
+.trade,businesses,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.trading,,,,DOTTRADING REGISTRY LTD[11],DOTTRADING REGISTRY LTD[11],
+.training,"Personal trainers & nutrition coaches, gyms and fitness centers, sports medicine practitioners, business that sell sports gear or apparel, or fan merchandise, animal trainers, career or vocational training centers",,,Identity Digital,Identity Digital,—
+.travel,"Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging, any other travel or transportation business",,,,,Must be verified as a legitimate travel-related entity.
+.travelersinsurance,,,,"Travelers TLD, LLC[11]","Travelers TLD, LLC[11]",Reserved for Travelers Insurance
+.trust,,,,UNR Corp.[11],UNR Corp.[11],
+.tube,,,,Latin American Telecom LLC[11],Latin American Telecom LLC[11],
+.tunes,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.uconnect,,,,Not assigned[11][75],Not assigned[11][75],
+.university,"Online universities, brick-and-mortar universities, university-related clubs & organizations",,,Identity Digital,Identity Digital,—
+.uno,"general, Spanish and Italian speakers, Uno (card game)",,,,,
+.vacations,"Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging",,,Identity Digital,Identity Digital,—
+.ventures,"Venture capital investment firms, business financial services, business consultants, programs & services for entrepreneurs",,,Identity Digital,Identity Digital,—
+.vet,"Veterinarians, veterinary clinics and hospitals, wholesale suppliers for veterinary supplies",,,Identity Digital,Identity Digital,—
+.video,"Video production & media companies, videographers, video editors, script writers, & producers, streaming video sites services, creative agencies",,,Identity Digital,Identity Digital,—
+.villas,"International real estate brokers/agents, international travel agencies, resources & services, travel writers & bloggers, traditional “classified” sites",,,Identity Digital,Identity Digital,—
+.vin,"Wineries, wine shops & wine bars, wine distributors, wine clubs & online retailers, wine review sites and apps",,,Identity Digital,Identity Digital,—
+.vip,Very important persons,,,Minds + Machines Group Limited[11],Minds + Machines Group Limited[11],
+.vision,"Opticians & optometry clinics, healthcare providers, insurance provider, glasses retailers, online and brick & mortar",,,Identity Digital,Identity Digital,—
+.vodka,vodka-related businesses and interest,,,,,—
+.volvo,,,,AB Volvo,AB Volvo,Only Volvo Holding Sverige Aktiebolag and its Affiliates are eligible to register a Domain Name under the .volvo Domain [76]
+.vote,democratic elections and campaign websites,,,Identity Digital,Identity Digital,"Must use the domain in connection with a ""clearly identified political/democratic process.""[77]"
+.voting,polling sites,,,,,—
+.voyage,"Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging",,,Identity Digital,Identity Digital,—
+.wang,"general
+Wǎng is a Chinese Mandarin pinyin rendering of 网 (traditional 網) meaning ""web"" or ""portal"".[78]
+Wang is also a common surname in mainland China.",,,Zodiac Registry,Zodiac Registry,—
+.watch,"Watchmakers, jewelry stores, watch repair shops, neighborhood watch groups",,,Identity Digital,Identity Digital,—
+.watches,watches,,,Identity Digital[11],Identity Digital[11],
+.weather,,,,International Business Machines Corporation[11],International Business Machines Corporation[11],Reserved for The Weather Channel
+.webcam,web cam shows and video sharing,,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.website,general,,,Radix Registry,Radix Registry,—
+.wed,engaged couples and wedding-oriented businesses,,,,,"This TLD is intended primarily for engaged couples on a short-term basis (two years with large third-year renewal fees for second-level domains).[80]
+And although the registry is advertising for multiple world languages, all domains appear to need to be in Latin script.[81]"
+.wedding,wedding-oriented businesses,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.whoswho,Who's Who (general),,,Who's Who Registry,Who's Who Registry,"An open TLD, any person or entity is permitted to register. Conceived for those cited in one of the Who's Who reference titles published around the world, the registry was opened for use by private individuals, and for-profit and nonprofit entities, including those with social media aspirations. Registry policies allow for rapid takedown of non-compliant domains, for violations including imposturous registration of another's names, and proscribed uses, including pornography or adult services/applications."
+.wiki,wikis,,,Top Level Design,Top Level Design,"""An open TLD for anyone interested in community resource creation"""
+.win,"games, Microsoft Windows",,,Global Registry Services Ltd[10],Global Registry Services Ltd[10],—
+.wine,"Wineries, wine bars, wine shops, wine distributors, wine clubs & online retailers, wine review sites",,,Identity Digital,Identity Digital,—
+.winners,,,,"The TJX Companies, Inc.[11]","The TJX Companies, Inc.[11]",Reserved for TJX Companies
+.work,general,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.works,"Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, companies with solution based products or services",,,Identity Digital,Identity Digital,—
+.world,"Brands with an international presence, nonprofits and charities, travel agencies & adventure companies, world travelers & global communities, any business with “world” in its name",,,Identity Digital,Identity Digital,—
+.wow,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.wtf,"Bargain websites, photo & video aggregators, meme sites, news of the weird",,,Identity Digital,Identity Digital,—
+.xxx,adult entertainment (pornography),,,Uniregistry,Uniregistry,"For sites providing sexually explicit content, such as pornography."
+.xyz,general,,,XYZ.com,XYZ.com,—
+.yachts,yachts,,,"DERYachts, LLC","DERYachts, LLC",
+.yoga,yoga,,,Minds + Machines[n 3],Minds + Machines[n 3],—
+.you,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.youtube,,,,"Google, LLC","Google, LLC",Reserved for YouTube
+.zero,,,,"Amazon Registry Services, Inc.[11]","Amazon Registry Services, Inc.[11]",
+.zip,"digital storage information, providers, and related entities.",,,Charleston Road Registry Inc. (Google)[11],Charleston Road Registry Inc. (Google)[11],
+.zone,"Sports fans, technology groups & followers, entertainment, fairs, destinations with a “zone”, city planners & zoning regulators, any topic with a following",,,Identity Digital,Identity Digital,—
+.aaa,American Automobile Association,,,,,[11]
+.aarp,AARP,,,,,[11]
+.abarth,Fiat Chrysler Automobiles (Abarth),,,,,[11]
+.abb,ABB,,,,,[11]
+.abbott,Abbott Laboratories,,,,,[11]
+.abbvie,AbbVie,,,,,[11]
+.abc,American Broadcasting Company[153],,,,,[11]
+.accenture,Accenture,,,,,[11]
+.aco,ACO Severin Ahlmann GmbH & Co. KG,,,,,[11]
+.aeg,Aktiebolaget Electrolux,,,,,[11]
+.aetna,Aetna,,,,,[11]
+.afl,Australian Football League,,,,,[11]
+.agakhan,Aga Khan Foundation,,,,,[11]
+.aig,American International Group,,,,,[11]
+.aigo,Aigo,,,,,[11]
+.airbus,Airbus,,,,,[11]
+.airtel,Bharti Airtel,,,,,[11]
+.akdn,Aga Khan Foundation,,,,,[11]
+.alfaromeo,Fiat Chrysler Automobiles (Alfa Romeo),,,,,[11]
+.alibaba,Alibaba Group,,,,,[11]
+.alipay,Alibaba Group,,,,,[11]
+.allfinanz,Allfinanz Deutsche Vermögensberatung Aktiengesellschaft,,,Un­known,Un­known,[154]
+.allstate,Allstate,,,,,[11]
+.ally,Ally Financial,,,,,[11]
+.alstom,Alstom,,,,,[11]
+.amazon,Amazon,,,,,
+.americanexpress,American Express,,,,,[11]
+.amex,American Express,,,,,[11]
+.amica,Amica Mutual Insurance,,,,,[11]
+.android,Google (Android),,,Un­known,Un­known,[155]
+.anz,Australia & New Zealand Banking Group,,,,,[11]
+.aol,AOL,,,,,[11]
+.apple,Apple,,,,,[11]
+.aquarelle,Aquarelle.com Group,,,Un­known,Un­known,[156]
+.aramco,Aramco,,,,,[11]
+.audi,Audi,,,,,[11]
+.auspost,Australia Post,,,,,[11]
+.aws,Amazon Web Services,,,,,[11]
+.axa,Axa,,,Yes[12],Yes[12],[157]
+.azure,Microsoft,,,,,[11]
+.baidu,Baidu,,,,,[11]
+.bananarepublic,Gap (Banana Republic),,,,,[11]
+.barclaycard,Barclays,,,Un­known,Un­known,[158]
+.barclays,Barclays,,,Un­known,Un­known,[158]
+.basketball,FIBA,,,,,[159]
+.bauhaus,Werkhaus GmbH,,,,,[11]
+.bbc,BBC,,,,,[11]
+.bbt,BB&T,,,,,[11]
+.bbva,Banco Bilbao Vizcaya Argentaria,,,,,[11]
+.bcg,Boston Consulting Group,,,,,[11]
+.bentley,Bentley,,,,,[11]
+.bharti,Bharti Enterprises,,,,,[11]
+.bing,Microsoft (Bing),,,,,[11]
+.blanco,BLANCO GmbH + Co KG,,,,,[11]
+.bloomberg,Bloomberg,,,Un­known,Un­known,[160]
+.bms,Bristol-Myers Squibb,,,,,[11]
+.bmw,BMW,,,No,No,[161]
+.bnl,Banca Nazionale del Lavoro,,,Un­known,Un­known,[162]
+.bnpparibas,BNP Paribas,,,Un­known,Un­known,[163]
+.boehringer,Boehringer Ingelheim,,,,,[11]
+.bond,Bond University[11],,,,,Later became a gTLD on 26 November 2019
+.booking,Booking.com,,,,,[11]
+.bosch,Robert Bosch GmbH,,,,,[11]
+.bostik,Bostik,,,,,[11]
+.bradesco,Bradesco,,,Un­known,Un­known,[164]
+.bridgestone,Bridgestone,,,,,[11]
+.brother,Brother Industries,,,,,[11]
+.bugatti,Bugatti,,,,,[11]
+.cal,Google (Google Calendar),,,Un­known,Un­known,[165]
+.calvinklein,PVH,,,,,[11]
+.canon,Canon,,,,,[11]
+.capitalone,Capital One,,,,,[11]
+.caravan,Caravan International,,,Un­known,Un­known,[166]
+.cartier,Richemont DNS,,,,,[11]
+.cba,Commonwealth Bank,,,,,[11]
+.cbn,Christian Broadcasting Network,,,,,[11]
+.cbre,CBRE Group,,,,,[11]
+.cbs,CBS,,,,,[11]
+.cern,CERN,,,Un­known,Un­known,[167]
+.cfa,CFA Institute,,,,,[11]
+.chanel,Chanel,,,,,[11]
+.chase,Chase Bank,,,,,[11]
+.chintai,Chintai Corporation [ja],,,,,[11]
+.chrome,Google (Google Chrome),,,Un­known,Un­known,[168]
+.chrysler,Chrysler,,,,,[11]
+.cipriani,Hotel Cipriani Srl,,,,,[11]
+.cisco,Cisco Systems,,,,,[11]
+.citadel,Citadel Domain,,,,,[11]
+.citi,Citigroup,,,,,[11]
+.citic,CITIC Group,,,No,No,[169]
+.clubmed,Club Med,,,,,[11]
+.comcast,Comcast,,,,,[11]
+.commbank,Commonwealth Bank,,,,,[11]
+.creditunion,CUNA Performance Resources,,,,,[11]
+.crown,Crown Equipment Corporation,,,,,[11]
+.crs,"Federated Co-operatives
+(Co-Operative Retailing System)",,,Un­known,Un­known,[170]
+.csc,DXC Technology,,,,,
+.cuisinella,Société Alsacienne de Meubles (Cuisinella),,,Un­known,Un­known,[171]
+.dabur,Dabur,,,,,[11]
+.datsun,Nissan (Datsun),,,,,[11]
+.dealer,Dealer Dot Com,,,,,[11]
+.dell,Dell,,,,,[11]
+.deloitte,Deloitte,,,,,[11]
+.delta,Delta Air Lines,,,,,[11]
+.dhl,Deutsche Post,,,,,[11]
+.discover,Discover Financial Services,,,,,[11]
+.dish,Dish Network,,,,,[11]
+.dnp,Dai Nippon Printing,,,Un­known,Un­known,[172]
+.dodge,Chrysler (Dodge),,,,,[11]
+.dunlop,Goodyear Tire and Rubber Company (Dunlop Tyres),,,,,[11]
+.dupont,DuPont,,,,,[11]
+.dvag,Deutsche Vermögensberatung,,,Un­known,Un­known,[173]
+.edeka,Edeka,,,Un­known,Un­known,[174]
+.emerck,Merck Group,,,Un­known,Un­known,[175]
+.epson,Seiko Epson,,,,,[11]
+.ericsson,Ericsson,,,,,[11]
+.erni,ERNI Group Holding AG,,,,,[11]
+.esurance,Esurance,,,,,[11]
+.etisalat,Etisalat,,,,,[11]
+.eurovision,European Broadcasting Union (Eurovision),,,,,[11]
+.everbank,EverBank,,,Un­known,Un­known,[176]
+.extraspace,Extra Space Storage,,,,,[11]
+.fage,Fage,,,,,[11]
+.fairwinds,FairWinds Partners,,,,,[11]
+.farmers,Farmers Insurance Exchange,,,,,[11]
+.fedex,FedEx,,,,,[11]
+.ferrari,Fiat Chrysler Automobiles (Ferrari),,,,,[11]
+.ferrero,Ferrero,,,,,[11]
+.fiat,Fiat Chrysler Automobiles,,,,,[11]
+.fidelity,Fidelity Investments,,,,,[11]
+.firestone,Bridgestone,,,,,[11]
+.firmdale,Firmdale Holdings,,,Un­known,Un­known,[177]
+.flickr,Yahoo! (Flickr),,,,,[11]
+.flir,FLIR Systems,,,,,[11]
+.flsmidth,FLSmidth,,,Un­known,Un­known,[178]
+.ford,Ford,,,,,[11]
+.fox,Fox Broadcasting Company,,,,,[11]
+.fresenius,Fresenius Immobilien-Verwaltungs-GmbH,,,,,[11]
+.forex,Dotforex Registry Ltd,,,,,[11]
+.frogans,OP3FT,,,Yes[12],Yes[12],Solely for use by the Frogans technology[179]
+.frontier,Frontier Communications,,,,,[11]
+.fujitsu,Fujitsu,,,,,[11]
+.fujixerox,Fuji Xerox,,,,,[11]
+.gallo,E & J Gallo Winery,,,,,[11]
+.gallup,Gallup,,,,,[11]
+.gap,Gap,,,,,[11]
+.gbiz,Google,,,Un­known,Un­known,[180]
+.gea,GEA Group,,,,,[11]
+.genting,Genting Group,,,,,[11]
+.giving,Giving Limited,,,,,[11]
+.gle,Google,,,Un­known,Un­known,[181]
+.globo,Grupo Globo,,,No,No,[182]
+.gmail,Google (Gmail),,,Un­known,Un­known,[183]
+.gmo,GMO Internet,,,Un­known,Un­known,[184]
+.gmx,"1&1 Mail & Media (GMX, Global Message Exchange)",,,Un­known,Un­known,[185]
+.godaddy,Go Daddy,,,,,[11]
+.goldpoint,Yodobashi Camera,,,,,[11]
+.goodyear,Goodyear Tire and Rubber Company,,,,,[11]
+.goog,Google,,,Un­known,Un­known,[186]
+.google,Google,,,Un­known,Un­known,[187]
+.grainger,"Grainger Registry Services, LLC",,,,,[11]
+.guardian,Guardian Life Insurance Company of America,,,,,[11]
+.gucci,Gucci,,,,,[11]
+.hbo,HBO,,,,,[11]
+.hdfc,Housing Development Finance Corporation,,,,,[11]
+.hdfcbank,HDFC Bank,,,,,[11]
+.hermes,Hermès,,,,,[11]
+.hisamitsu,Hisamitsu Pharmaceutical,,,,,[11]
+.hitachi,Hitachi,,,,,[11]
+.hkt,Hong Kong Telecom,,,,,[11]
+.honda,Honda,,,,,[11]
+.honeywell,Honeywell,,,,,[11]
+.hotmail,Microsoft (Hotmail),,,,,[11]
+.hsbc,HSBC,,,Un­known,Un­known,[188]
+.hughes,Hughes Network Systems,,,,,[11]
+.hyatt,Hyatt,,,,,[11]
+.hyundai,Hyundai Motor Company,,,,,[11]
+.ibm,IBM,,,Un­known,Un­known,[189]
+.ieee,Institute of Electrical & Electronics Engineers,,,,,[11]
+.ifm,ifm electronic gmbh,,,,,[11]
+.ikano,Ikano,,,,,[11]
+.imdb,Amazon (IMDb),,,,,[11]
+.infiniti,Nissan (Infiniti),,,,,[11]
+.intel,Intel,,,,,[11]
+.intuit,Intuit,,,,,[11]
+.ipiranga,Ipiranga,,,,,[11]
+.iselect,iSelect,,,,,[11]
+.itau,Itaú Unibanco,,,,,[11]
+.itv,ITV,,,,,[11]
+.iveco,CNH Industrial (Iveco),,,,,[11]
+.jaguar,Jaguar Land Rover,,,,,[11]
+.java,Oracle (Java),,,,,[11]
+.jcb,JCB,,,,,[11]
+.jcp,JCP Media,,,,,[11]
+.jeep,Chrysler (Jeep),,,,,[11]
+.jpmorgan,JPMorgan Chase,,,,,[11]
+.juniper,Juniper Networks,,,,,[11]
+.kddi,KDDI,,,,,[11]
+.kerryhotels,Kerry Trading Co. Limited,,,,,[11]
+.kerrylogistics,Kerry Trading Co. Limited,,,,,[11]
+.kerryproperties,Kerry Trading Co. Limited,,,,,[11]
+.kfh,Kuwait Finance House,,,,,[11]
+.kia,Kia Motors Corporation,,,,,[11]
+.kinder,Ferrero (Kinder Surprise),,,,,[11]
+.kindle,Amazon (Amazon Kindle),,,,,[11]
+.komatsu,Komatsu,,,,,[11]
+.kpmg,KPMG,,,,,[11]
+.kred,KredTLD,,,Un­known,Un­known,[190]
+.kuokgroup,Kerry Trading Co. Limited,,,,,[11]
+.lacaixa,Caixa d’Estalvis i Pensions de Barcelona,,,Un­known,Un­known,[191]
+.ladbrokes,Ladbrokes,,,,,[11]
+.lamborghini,Lamborghini,,,,,[11]
+.lancaster,Lancaster (Coty),,,,,[11]
+.lancia,Fiat Chrysler Automobiles (Lancia),,,,,[11]
+.lancome,L'Oréal,,,,,[11]
+.landrover,Jaguar Land Rover,,,,,[11]
+.lanxess,Lanxess,,,,,[11]
+.lasalle,JLL,,,,,[11]
+.latrobe,La Trobe University,,,Un­known,Un­known,[192]
+.lds,The Church of Jesus Christ of Latter-day Saints (LDS Church)[193],,,Un­known,Un­known,[194]
+.leclerc,E.Leclerc,,,,,[195]
+.lego,Lego Group,,,,,[11]
+.liaison,Liaison Technologies,,,,,[11]
+.lexus,Toyota (Lexus),,,,,[11]
+.lidl,Lidl,,,,,[11]
+.lifestyle,"Lifestyle Domain Holdings, Inc.",,,,,[11]
+.lilly,Eli Lilly & Company,,,,,[11]
+.lincoln,Ford (Lincoln),,,,,[11]
+.linde,Linde,,,,,[11]
+.lipsy,Lipsy Ltd,,,,,[11]
+.lixil,Lixil Group,,,,,[11]
+.locus,Locus Analytics,,,,,[11]
+.lotte,Lotte Holdings,,,,,[11]
+.lpl,LPL Financial,,,,,[11]
+.lplfinancial,LPL Financial,,,,,[11]
+.lundbeck,Lundbeck,,,,,[11]
+.lupin,Lupin Limited,,,,,[11]
+.macys,Macy's,,,,,[11]
+.maif,Mutuelle Assurance Instituteur France (MAIF),,,,,[11]
+.man,MAN,,,,,[11]
+.mango,Mango,,,Latin script[12],Latin script[12],[196]
+.marriott,Marriott International,,,,,[11]
+.maserati,Fiat Chrysler Automobiles (Maserati),,,,,[11]
+.mattel,Mattel,,,,,[11]
+.mckinsey,McKinsey & Company,,,,,[11]
+.metlife,MetLife,,,,,[11]
+.microsoft,Microsoft,,,,,[11]
+.mini,BMW (Mini),,,No,No,[197]
+.mit,Massachusetts Institute of Technology,,,,,[11]
+.mitsubishi,Mitsubishi Corporation,,,,,[11]
+.mlb,MLB Advanced Media,,,,,[11]
+.mma,MMA IARD,,,,,[11]
+.monash,Monash University,,,No,No,[198][199]
+.mormon,The Church of Jesus Christ of Latter-day Saints (LDS Church)[193],,,Un­known,Un­known,[200]
+.moto,Motorola,,,,,[11]
+.movistar,Telefónica (Movistar),,,,,[11]
+.msd,"MSD Registry Holdings, Inc.",,,,,[11]
+.mtn,MTN,,,,,[11]
+.mtr,MTR Corporation,,,,,[11]
+.mutual,Northwestern Mutual,,,,,[11]
+.nadex,Nadex,,,,,[11]
+.nationwide,Nationwide Mutual Insurance Company,,,,,[11]
+.natura,Natura & Co,,,,,[11]
+.nba,National Basketball Association,,,,,[11]
+.nec,NEC,,,,,[11]
+.netflix,Netflix,,,,,[11]
+.neustar,Neustar,,,No,No,[201]
+.newholland,"CNH Industrial (New Holland Agriculture, New Holland Construction)",,,,,[11]
+.nfl,National Football League,,,,,[11]
+.nhk,NHK,,,Un­known,Un­known,[202]
+.nico,Dwango (Niconico),,,Un­known,Un­known,[203]
+.nike,Nike,,,,,[11]
+.nikon,Nikon,,,,,[11]
+.nissan,Nissan,,,,,[11]
+.nissay,Nippon Life,,,,,[11]
+.nokia,Nokia,,,,,[11]
+.northwesternmutual,Northwestern Mutual,,,,,[11]
+.norton,NortonLifeLock,,,,,[11]
+.nra,National Rifle Association of America,,,Un­known,Un­known,[204]
+.ntt,Nippon Telegraph & Telephone,,,,,[11]
+.obi,OBI Group Holding SE & Co. KGaA,,,,,[11]
+.office,Microsoft (Microsoft Office),,,,,[11]
+.omega,Swatch Group (Omega),,,,,[11]
+.oracle,Oracle,,,,,[11]
+.orange,Orange,,,,,[11]
+.otsuka,Otsuka Pharmaceutical,,,Un­known,Un­known,[205]
+.ovh,OVH,,,French[12],French[12],[206]
+.panasonic,Panasonic,,,,,[11]
+.pccw,PCCW,,,,,[11]
+.pfizer,Pfizer,,,,,[11]
+.philips,Philips,,,,,[11]
+.piaget,Piaget,,,Un­known,Un­known,[207]
+.pictet,Pictet,,,,,[11]
+.ping,Ping,,,,,[11]
+.pioneer,Pioneer Corporation,,,,,[11]
+.play,Google (Google Play),,,,,[11]
+.playstation,Sony (PlayStation),,,,,[11]
+.pohl,"Deutsche Vermögensberatung
+(founder Reinfried Pohl)",,,Un­known,Un­known,[208]
+.politie,Politie Nederland,,,,,[11]
+.praxi,Praxi,,,Un­known,Un­known,[209]
+.prod,Google (products),,,Un­known,Un­known,[210]
+.progressive,Progressive Corporation,,,,,[11]
+.pru,Prudential Financial,,,,,[11]
+.prudential,Prudential Financial,,,,,[11]
+.pwc,PwC,,,Un­known,Un­known,[211]
+.quest,Quest Software,,,,,[11]
+.qvc,QVC,,,,,[11]
+.redstone,Redstone Haute Couture Co,,,,,[11]
+.reliance,Reliance Industries,,,,,[11]
+.rexroth,Robert Bosch GmbH,,,,,[11]
+.ricoh,Ricoh,,,,,[11]
+.rmit,Royal Melbourne Institute of Technology,,,,,[11]
+.rocher,Ferrero (Ferrero Rocher),,,,,[11]
+.rogers,Rogers Communications,,,,,[11]
+.rwe,RWE,,,,,[11]
+.safety,"Safety Registry Services, LLC.",,,,,[11]
+.sakura,Sakura Internet [ja],,,,,[11]
+.samsung,Samsung SDS,,,,,[11]
+.sandvik,Sandvik,,,,,[11]
+.sandvikcoromant,Sandvik Coromant,,,Un­known,Un­known,[212]
+.sanofi,Sanofi,,,,,[11]
+.sap,SAP,,,,,[213]
+.saxo,Saxo Bank,,,,,[11]
+.sbi,State Bank of India,,,,,[11]
+.sbs,Special Broadcasting Service[11],,,,,Later became a gTLD on 15 June 2021
+.sca,Svenska Cellulosa,,,Un­known,Un­known,[214]
+.scb,Siam Commercial Bank,,,Thai[12],Thai[12],
+.schaeffler,Schaeffler Technologies,,,,,[11]
+.schmidt,Société Alsacienne de Meubles (Cuisines Schmidt),,,Un­known,Un­known,[215]
+.schwarz,Schwarz Gruppe,,,,,[11]
+.scjohnson,SC Johnson & Son,,,,,[11]
+.scor,SCOR,,,,,[11]
+.seat,SEAT,,,,,[11]
+.sener,"Sener Ingeniería y Sistemas, S.A.",,,,,[11]
+.ses,SES,,,,,[11]
+.sew,SEW Eurodrive,,,,,[11]
+.seven,Seven West Media,,,,,[11]
+.sfr,SFR,,,,,[11]
+.seek,Seek,,,No,No,[216]
+.shangrila,Shangri-La Hotels & Resorts,,,,,[11]
+.sharp,Sharp Corporation,,,,,[11]
+.shaw,Shaw Cablesystems G.P.,,,,,[11]
+.shell,Shell,,,,,[11]
+.shriram,Shriram Capital,,,,,[11]
+.sina,Sina Corp,,,,,[11]
+.sky,Sky Group,,,,,[11]
+.skype,Microsoft (Skype),,,,,[11]
+.smart,Smart Communications,,,,,[11]
+.sncf,SNCF,,,,,[11]
+.softbank,SoftBank,,,,,[11]
+.sohu,Sohu,,,Un­known,Un­known,[217]
+.sony,Sony,,,,,[11]
+.spiegel,Der Spiegel,,,Un­known,Un­known,[218]
+.stada,Stada Arzneimittel,,,,,[11]
+.staples,Staples,,,,,[11]
+.star,Disney Star,,,,,[11]
+.starhub,StarHub,,,,,[11]
+.statebank,State Bank of India,,,,,[11]
+.statefarm,State Farm,,,,,[11]
+.statoil,Statoil,,,,,[11]
+.stc,Saudi Telecom Company,,,,,[11]
+.stcgroup,Saudi Telecom Company,,,,,[11]
+.suzuki,Suzuki,,,Un­known,Un­known,[219]
+.swatch,Swatch Group,,,,,[11]
+.swiftcover,Swiftcover,,,,,[11]
+.symantec,NortonLifeLock,,,,,[11]
+.taobao,Alibaba Group (Taobao),,,,,[11]
+.target,Target,,,,,[11]
+.tatamotors,Tata Motors,,,,,[11]
+.tdk,TDK,,,,,[11]
+.telecity,TelecityGroup,,,,,[11]
+.telefonica,Telefónica,,,,,[11]
+.temasek,Temasek Holdings,,,,,[11]
+.teva,Teva Pharmaceuticals,,,,,[11]
+.tiffany,Tiffany & Co,,,,,[11]
+.tjx,TJX Companies,,,,,[11]
+.toray,Toray Industries,,,,,[11]
+.toshiba,Toshiba,,,,,[11]
+.total,Total,,,,,[11]
+.toyota,Toyota,,,,,[11]
+.travelchannel,"Lifestyle Domain Holdings, Inc. (Travel Channel)",,,,,[11]
+.travelers,"Travelers TLD, LLC (The Travelers Companies)",,,,,[11]
+.tui,TUI,,,Un­known,Un­known,[220]
+.tvs,T V Sundram Iyengar & Sons Private Limited,,,,,[11]
+.ubs,UBS,,,,,[11]
+.unicom,China Unicom,,,,,[11]
+.uol,Universo Online,,,Un­known,Un­known,Delegated to UOL subsidiary UBN Internet.[221]
+.ups,United Parcel Service,,,,,[11]
+.vanguard,Vanguard Group,,,,,[11]
+.verisign,VeriSign,,,,,[11]
+.vig,Vienna Insurance Group,,,,,[11]
+.viking,Viking River Cruises,,,,,[11]
+.virgin,Virgin Group,,,,,[11]
+.visa,Visa,,,,,[11]
+.vista,Vistaprint,,,,,[11]
+.vistaprint,Vistaprint,,,,,[11]
+.vivo,Telefónica Brasil,,,,,[11]
+.volkswagen,Volkswagen Group of America,,,,,[11]
+.volvo,Volvo,,,,,[11]
+.walmart,Walmart,,,,,[11]
+.walter,Sandvik,,,,,[11]
+.weatherchannel,IBM (The Weather Company),,,,,[11]
+.weber,Saint-Gobain,,,,,[11]
+.weir,Weir Group,,,,,[11]
+.williamhill,William Hill,,,Un­known,Un­known,[222]
+.windows,Microsoft (Microsoft Windows),,,,,[11]
+.wme,Endeavor,,,Un­known,Un­known,[223]
+.wolterskluwer,Wolters Kluwer,,,,,[11]
+.woodside,Woodside Petroleum,,,,,[11]
+.wtc,World Trade Centers Association,,,Un­known,Un­known,[224]
+.xbox,Microsoft Xbox,,,,,[11]
+.xerox,Fuji Xerox,,,,,[11]
+.xfinity,Comcast,,,,,[11]
+.yahoo,Yahoo!,,,,,[11]
+.yamaxun,Amazon (Amazon China),,,,,[11]
+.yandex,Yandex,,,Un­known,Un­known,[225]
+.yodobashi,Yodobashi Camera,,,,,[11]
+.youtube,Google (YouTube),,,Un­known,Un­known,[226]
+.zappos,Amazon (Zappos),,,,,[11]
+.zara,Inditex (Zara),,,,,[11]
+.zippo,Zippo,,,,,[11]
