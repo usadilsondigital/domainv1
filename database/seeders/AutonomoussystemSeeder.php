@@ -12,6 +12,17 @@ class AutonomoussystemSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        $file = fopen('asseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+               \DB::table('autonomoussystems')->insert([
+                'numbermin'=> $line[0],
+                'numbermax'=> $line[1],
+                'bits'=> $line[2],
+                'description'=> $line[3],
+                'reference'=> $line[4]
+            ]);
+        }
+        
+        fclose($file);
     }
 }
