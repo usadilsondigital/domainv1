@@ -22,7 +22,7 @@ class RootserverSeeder extends Seeder
                 'oldname'=> $line[3],
                 'operator'=> $line[4],
                 'software'=> $line[5],
-                'countryid'=> $line[6]
+                'countryid'=> 0
             ]);
         }
         
