@@ -16,10 +16,10 @@ class CountrySeeder extends Seeder
         while (($line = fgetcsv($file)) !== FALSE) {
                \DB::table('countries')->insert([
                 'name'=> $line[0],
-                'membershipun'=> $line[1],
-                'sovereigntydispute'=> $line[2]
+                'formalname'=> $line[0],                
+                'disputedsovereignty'=> $line[2],
+                'unsystem_id'=> 0,
             ]);
-               echo("</br>");
         }
         
         fclose($file);
