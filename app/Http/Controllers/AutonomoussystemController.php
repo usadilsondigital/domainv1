@@ -10,49 +10,53 @@ use App\Helper;
 
 class AutonomoussystemController extends Controller
 {
-    public function NuevoAS($numbermin,$numbermax,$bits,$description,$reference){
-      
+    public function NuevoAS($numbermin, $numbermax, $bits, $description, $reference)
+    {
+
         \DB::table('autonomoussystems')->insert([
-            'numbermin'=> $numbermin,
-            'numbermax'=> $numbermax,
-            'bits'=> $bits,
-            'description'=> $description,
-            'reference'=> $reference
+            'numbermin' => $numbermin,
+            'numbermax' => $numbermax,
+            'bits' => $bits,
+            'description' => $description,
+            'reference' => $reference
         ]);
     }
     public function SeedCountry(): void
     {
         $file = fopen('countryseeder.csv', 'r');
         while (($line = fgetcsv($file)) !== FALSE) {
-               \DB::table('countries')->insert([
-                'name'=> $line[0],
-                'formalname'=> $line[0],                
-                'disputedsovereignty'=> $line[2],
-                'unsystem_id'=> 0,
+            \DB::table('countries')->insert([
+                'name' => $line[0],
+                'formalname' => $line[0],
+                'disputedsovereignty' => $line[2],
+                'unsystem_id' => 0,
             ]);
-        }        
+        }
         fclose($file);
     }
 
     public function SeedUnsystem(): void
     {
-        $file = fopen('unsystemseeder.csv', 'r'); while (($line = fgetcsv($file)) !== FALSE) {
-            \DB::table('unsystems')->insert([ 'name'=> $line[0]]);    }    fclose($file);
+        $file = fopen('unsystemseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+            \DB::table('unsystems')->insert(['name' => $line[0]]);
+        }
+        fclose($file);
     }
 
     public function SeedAs(): void
     {
         $file = fopen('asseeder.csv', 'r');
         while (($line = fgetcsv($file)) !== FALSE) {
-               \DB::table('autonomoussystems')->insert([
-                'numbermin'=> $line[0],
-                'numbermax'=> $line[1],
-                'bits'=> $line[2],
-                'description'=> $line[3],
-                'reference'=> $line[4]
+            \DB::table('autonomoussystems')->insert([
+                'numbermin' => $line[0],
+                'numbermax' => $line[1],
+                'bits' => $line[2],
+                'description' => $line[3],
+                'reference' => $line[4]
             ]);
         }
-        
+
         fclose($file);
     }
 
@@ -60,63 +64,65 @@ class AutonomoussystemController extends Controller
     {
         $file = fopen('rootserverseeder.csv', 'r');
         while (($line = fgetcsv($file)) !== FALSE) {
-               \DB::table('rootservers')->insert([
-                'letter'=> $line[0],
-                'ipv4'=> $line[1],
-                'ipv6'=> $line[2],
-                'oldname'=> $line[3],
-                'operator'=> $line[4],
-                'software'=> $line[5],
-                'countryid'=> 0
+            \DB::table('rootservers')->insert([
+                'letter' => $line[0],
+                'ipv4' => $line[1],
+                'ipv6' => $line[2],
+                'oldname' => $line[3],
+                'operator' => $line[4],
+                'software' => $line[5],
+                'countryid' => 0
             ]);
         }
-        
+
         fclose($file);
     }
-    
+
     public function SeedLanguage(): void
     {
         $file = fopen('languageseeder.csv', 'r');
         while (($line = fgetcsv($file)) !== FALSE) {
-               \DB::table('languages')->insert([
-                'name'=> $line[0],
-                'currentwordscount'=> 0,
-                'totalwords'=> 0
+            \DB::table('languages')->insert([
+                'name' => $line[0],
+                'currentwordscount' => 0,
+                'totalwords' => 0
             ]);
         }
-        
+
         fclose($file);
     }
 
-            public function SeedTld():void {
-                        $file = fopen('tldseeder.csv', 'r');
-                        while (($line = fgetcsv($file)) !== FALSE) {
-                            \DB::table('internettlds')->insert([
-                                'name'=> $line[0],
-                                'entity'=> $line[1],
-                                'explanation'=> $line[2],
-                                'notes'=> $line[3],
-                                'registry'=> $line[4],
-                                'administrator'=> $line[5],
-                                'restriction'=> $line[6],
-                                'typetldid'=> 0
-                            ]);
-                        }
-            }
-
-    /**
-     * Display a listing of the resource.
-     */
-    public function index()
+    public function SeedTld(): void
     {
-        $this->SeedUnsystem();
-        $this->SeedCountry();
-        $this->SeedAs();
-        $this->SeedRootserver();
-        $this->SeedLanguage();
-        $this->SeedTld();
+        $file = fopen('tldseeder.csv', 'r');
+        while (($line = fgetcsv($file)) !== FALSE) {
+            \DB::table('internettlds')->insert([
+                'name' => $line[0],
+                'entity' => $line[1],
+                'explanation' => $line[2],
+                'notes' => $line[3],
+                'registry' => $line[4],
+                'administrator' => $line[5],
+                'restriction' => $line[6],
+                'typetldid' => 0
+            ]);
+        }
+    }
 
-        //dd(Helper::loadTable($tablehtmlASN));
+    public function SeedWord(): void
+    {
+        $file = fopen("words_alpha.txt", "r") or die("Unable to open file!");
+
+        while (!feof($file)) {
+            $line = fgets($file);
+            dd($line);
+            echo $line . "<br>";
+        }
+
+        fclose($file);
+    }
+
+    private function Other(){ //dd(Helper::loadTable($tablehtmlASN));
 
         /* STEPS
         $url  = "https://en.wikipedia.org/wiki/Autonomous_system_(Internet)";
@@ -138,7 +144,23 @@ class AutonomoussystemController extends Controller
         //extract table html 
     }
 
-    
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        $this->SeedUnsystem();
+        $this->SeedCountry();
+        $this->SeedAs();
+        $this->SeedRootserver();
+        $this->SeedLanguage();
+        $this->SeedTld();
+        $this->SeedWord();
+
+       
+    }
+
+
 
     /**
      * Show the form for creating a new resource.
