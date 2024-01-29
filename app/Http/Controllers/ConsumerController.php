@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Support\Facades\Http;
 use Illuminate\Http\Request;
 
 class ConsumerController extends Controller
@@ -11,7 +12,9 @@ class ConsumerController extends Controller
      */
     public function index()
     {
-        //
+        $response = Http::get('http://google.com');
+        return $response;
+        
     }
 
     /**
