@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Support\Facades\Http;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Crypt;
+use Illuminate\Contracts\Encryption\DecryptException;
 
 class ConsumerController extends Controller
 {
@@ -12,9 +14,12 @@ class ConsumerController extends Controller
      */
     public function index()
     {
-        $response = Http::get('http://google.com');
-        return $response;
-        
+        /*$urlExternal = "http://localhost:5068/todoitems/encryptAdi/HellowrldThisismyfirstmessage/keynumber1123456";
+        $response = Http::get($urlExternal); //"RfGsgCdDfdtHhyjzNrVBSd3l2nwaYbyP+wlCruq6JiE="
+        return $response;*/
+        return $this->decryptGeneral();
+
+
     }
 
     /**
@@ -22,7 +27,7 @@ class ConsumerController extends Controller
      */
     public function create()
     {
-        //
+      
     }
 
     /**
@@ -64,4 +69,23 @@ class ConsumerController extends Controller
     {
         //
     }
+
+    public function decryptGeneral()
+    {
+        $key1 = "keynumber1123456";
+        $iv = "vectorsof16bytes";
+        $urlExternal = "http://localhost:5068/todoitems/enc/HellowrldThisismyfirstmessage";
+        $response = null;
+        $response = Http::get($urlExternal); //"SGVsbG93cmxkVGhpc2lzbXlmaXJzdG1lc3NhZ2U="
+        $plainText = $this->decrypt($response->body());
+    }
+    public function decrypt($encryptedString)
+    {
+        $trimmedFirst = substr($encryptedString, 1); // Received from C# with "" extras
+        $trimmedLast = substr($trimmedFirst, 0, -1);
+        $decodedText = base64_decode($trimmedLast);
+        return $decodedText;
+    }
+
+
 }
