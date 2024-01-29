@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AutonomoussystemController;
+use App\Http\Controllers\ConsumerController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,4 +22,4 @@ Route::get('/', function () {
 
 Route::get('/as', [AutonomoussystemController::class, 'index']);
 
-Route::get('/consume', [AutonomoussystemController::class, 'index']);
+Route::get('/consumer', [ConsumerController::class, 'index']);
