@@ -115,8 +115,11 @@ class AutonomoussystemController extends Controller
 
         while (!feof($file)) {
             $line = fgets($file);
-            dd($line);
-            echo $line . "<br>";
+            \DB::table('words')->insert([
+                'name' => $line,
+                'characterscount' => 0
+            }
+           // echo $line . "<br>";
         }
 
         fclose($file);
