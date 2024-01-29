@@ -20,3 +20,5 @@ Route::get('/', function () {
 
 
 Route::get('/as', [AutonomoussystemController::class, 'index']);
+
+Route::get('/consume', [AutonomoussystemController::class, 'index']);
