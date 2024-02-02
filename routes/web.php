@@ -24,3 +24,5 @@ Route::get('/as', [AutonomoussystemController::class, 'index']);
 
 Route::get('/consumer', [ConsumerController::class, 'index']);
 Route::get('/consum', [ConsumerController::class, 'create']);
+
+Route::get('/test', [ConsumerController::class, 'searcher']);
