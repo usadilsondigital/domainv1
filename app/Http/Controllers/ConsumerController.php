@@ -14,20 +14,18 @@ class ConsumerController extends Controller
      */
     public function index()
     {
-        /*$urlExternal = "http://localhost:5068/todoitems/encryptAdi/HellowrldThisismyfirstmessage/keynumber1123456";
-        $response = Http::get($urlExternal); //"RfGsgCdDfdtHhyjzNrVBSd3l2nwaYbyP+wlCruq6JiE="
-        return $response;*/
-        return $this->decryptGeneral();
 
 
     }
+    
+   
 
     /**
      * Show the form for creating a new resource.
      */
     public function create()
     {
-      
+        return $this->decryptGeneral();
     }
 
     /**
@@ -85,6 +83,39 @@ class ConsumerController extends Controller
         $trimmedLast = substr($trimmedFirst, 0, -1);
         $decodedText = base64_decode($trimmedLast);
         return $decodedText;
+    }
+
+
+     /**
+     * Searcher .
+     */
+    public function searcher()
+    {
+
+
+      //grab first word > 3  letters
+      //looping in the extensions
+      //grab first extension create "word.extension"
+      //try to access to this "https://www.whois.com/whois/"+"word.extension"
+
+      $word  = $this->wordMoreThreeLetters();
+      $extension = $this->extensionNow();
+      $cadena =  $word . $extension;
+      $urlToTest = "https://www.whois.com/whois/".$cadena;
+      $response = Http::get($urlToTest);
+      dd($response);
+
+    }
+
+
+     /**
+     * wordMoreThreeLetters .
+     */
+    public function wordMoreThreeLetters()
+    {
+
+
+   
     }
 
 
