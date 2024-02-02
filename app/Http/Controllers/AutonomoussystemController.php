@@ -114,13 +114,14 @@ class AutonomoussystemController extends Controller
         $file = fopen("words_alpha.txt", "r") or die("Unable to open file!");
 
         while (!feof($file)) {
-            $line = fgets($file);
+            $line = fgets($file);           
             \DB::table('words')->insert([
                 'name' => $line,
                 'characterscount' => 0
+            ]);
             }
            // echo $line . "<br>";
-        }
+       
 
         fclose($file);
     }
