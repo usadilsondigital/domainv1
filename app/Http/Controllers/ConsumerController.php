@@ -100,9 +100,11 @@ class ConsumerController extends Controller
         //try to access to this "https://www.whois.com/whois/"+"word.extension"
 
         $word = $this->wordMoreThreeLetters();
-        dd($word);
+       
         $extension = $this->extensionNow();
-        $cadena = $word . $extension;
+        $cadena = $word[0] . $extension;
+        
+        dd($word[0]);
         $urlToTest = "https://www.whois.com/whois/" . $cadena;
         $response = Http::get($urlToTest);        
         $body = $response->body();
@@ -136,11 +138,12 @@ class ConsumerController extends Controller
         $arrayWords = [];
             $words = DB::table('words')->get(); 
             foreach ($words as $wname) {
-                 if( strlen($wname->name) > 2 && strlen($wname->name) < 6 ){
-                     array_push($arrayWords , $wname->name);
+                $trimmed = trim(preg_replace('/\s+/', ' ',  $wname->name));
+                 if( strlen($trimmed) > 2 && strlen($trimmed) < 5 ){
+                     array_push($arrayWords ,$trimmed );
                  }
             }
-            dd(count($arrayWords));
+            return $arrayWords;
     }
 
 
