@@ -92,7 +92,9 @@ class ConsumerController extends Controller
      */
     public function searcher()
     {
-
+//ideas
+//1website with .com with few letters that are open
+//2wbesite with .com that expired yesterday
 
         //grab first word > 3  letters
         //looping in the extensions
@@ -102,31 +104,39 @@ class ConsumerController extends Controller
         $word = $this->wordMoreThreeLetters();
        
         $extension = $this->extensionNow();
-        $cadena = $word[0] . $extension;
+        $cadena  = "";
         
-        dd($word[0]);
-        $urlToTest = "https://www.whois.com/whois/" . $cadena;
-        $response = Http::get($urlToTest);        
-        $body = $response->body();
-        $quantity = substr_count($body,"whois-data");
-        if($quantity>2){
-            dd('NOT open');
-            //search other characteristcs
-            //process raw data or process tags
-            //see exmaple of response.txt
-            //$qua = substr_count($body,'class="df-raw"');
-            //$posRawData = strripos($body,'class="df-raw"');
-            //dd(strripos($body,'class="df-raw"'));
-            //$newPosRawData = $posRawData+ 34;           
-            //dd($body[$newPosRawData]);
-        }else{
-             dd('open');
-             $quant = substr_count($body,"Looks like this domain has not been registered yet");
-             dd($quant);
-        }
-        //dd($response->status());
-        
+        foreach ($word as $key => $value) {
+            $cadena = $value . $extension;
+            $urlToTest = "https://www.whois.com/whois/" . $cadena;
+            $response = Http::get($urlToTest);    
+            $body = $response->body();
+            $quantity = substr_count($body,"whois-data");
+            if($quantity>2){
+               
+                //search other characteristcs
+                //process raw data or process tags
+                //see exmaple of response.txt
+                //$qua = substr_count($body,'class="df-raw"');
+                //$posRawData = strripos($body,'class="df-raw"');
+                //strripos($body,'class="df-raw"');
+                //$newPosRawData = $posRawData+ 34;           
+                
+            }else{
+                 $quant = substr_count($body,"Looks like this domain has not been registered yet");
+                 $this->InsertForNow($urlToTest,$value);
+            }
+        }       
+       
+        //$response->status();     
+    }
 
+    public function InsertForNow($name,$acronym){
+        DB::table('typetlds')->insert([
+            'name' => $name,
+            'acronym' => $acronym,
+            'level' => 1
+        ]);
     }
 
 
@@ -139,7 +149,7 @@ class ConsumerController extends Controller
             $words = DB::table('words')->get(); 
             foreach ($words as $wname) {
                 $trimmed = trim(preg_replace('/\s+/', ' ',  $wname->name));
-                 if( strlen($trimmed) > 2 && strlen($trimmed) < 5 ){
+                 if( strlen($trimmed) > 2 && strlen($trimmed) < 9 ){
                      array_push($arrayWords ,$trimmed );
                  }
             }
