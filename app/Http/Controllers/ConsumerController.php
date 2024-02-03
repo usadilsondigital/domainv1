@@ -105,7 +105,6 @@ class ConsumerController extends Controller
        
         $extension = $this->extensionNow();
         $cadena  = "";
-        
         foreach ($word as $key => $value) {
             $cadena = $value . $extension;
             $urlToTest = "https://www.whois.com/whois/" . $cadena;
@@ -143,13 +142,30 @@ class ConsumerController extends Controller
     /**
      * wordMoreThreeLetters .
      */
-    public function wordMoreThreeLetters()
+    public function wordMoreThreeLetters2()
     {
         $arrayWords = [];
             $words = DB::table('words')->get(); 
             foreach ($words as $wname) {
                 $trimmed = trim(preg_replace('/\s+/', ' ',  $wname->name));
                  if( strlen($trimmed) > 2 && strlen($trimmed) < 9 ){
+                     array_push($arrayWords ,$trimmed );
+                 }
+            }
+            return $arrayWords;
+    }
+
+    /**
+     * wordMoreThreeLetters .
+     */
+    public function wordMoreThreeLetters()
+    {
+        $arrayWords = [];
+            $words = DB::table('words')->get(); 
+        
+            foreach ($words as $wname) {
+                $trimmed = trim(preg_replace('/\s+/', ' ',  $wname->name));
+                 if( strlen($trimmed) == 3 ){
                      array_push($arrayWords ,$trimmed );
                  }
             }
