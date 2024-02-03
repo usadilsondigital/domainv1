@@ -133,7 +133,14 @@ class ConsumerController extends Controller
      */
     public function wordMoreThreeLetters()
     {
-       
+        $arrayWords = [];
+            $words = DB::table('words')->get(); 
+            foreach ($words as $wname) {
+                 if( strlen($wname->name) > 2 && strlen($wname->name) < 6 ){
+                     array_push($arrayWords , $wname->name);
+                 }
+            }
+            dd(count($arrayWords));
     }
 
 
